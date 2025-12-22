@@ -18,7 +18,7 @@
 
 > **Status:** PT-1 finished  
 > **Design:** Fusion 360  
-> **Platform:** [Hack Club Blueprint](https://blueprint.hackclub.com/projects/117)
+> **Platform:** [Hack Club Blueprint](https://blueprint.hackclub.com/projects/2458)
 
 ---<br>
 **📣AN IMPORTANT NOTICE**<br>
