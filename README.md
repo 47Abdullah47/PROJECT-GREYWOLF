@@ -29,12 +29,12 @@
 This WOLF, not a literal one, is the first PT(prototype) of the experimental plane series **GREY WOLF** 
 The PT-1 is single engine (not a literal engine could be in future)powered ,running about **1.3-1.5**meters long ,standing almost **30 cm**tall . 
 The WOLF has a wingspan of almost **a meter** and a wing area of a **meter** too. Has a total of **8 control surfaces** Two of 'em are flaps,two ailerons ,two stabilators, and two rudders ,not rudders but whole moving tails.Also features three landing gears all of 'em with openning and closing bays.Also in this prototype i've designed my own type of somewhat lookin like S-duct ,Just to study the effects of air in turbulence while flying at low altitudes at high speeds.Expected speeds are like 150-250 mph ,result of edfs 3.4-4kg thrust and planes empty weight being 1.5-2 kgs ,looks a big number but thts a rough guess and the weight can be reduced in real life development.  
-Abt the electronic part .This beast has a spotter board and an on-board RADAR .
+Abt the electronic part .This beast has a spotter board and an on-board RADAR .<br>
 ***THE SPOTTER BOARD***
-                        The spotter board collectd info abt the plane ,like the current co-ordinates ,speed and altitude of the plane .The current specs are just collecting basic info ,but i plan to add more sensors like pressure sensing at tht altitude ,Measuring the temperature of the Engine (EDF) and the front facing parts of the plane tht can get heated while flying at high speeds.
-                        So it collects the info sends it back to the ground where on an oled display all the info is shown ,also it can allow the ground crew to monitor the planes location on googlemaps as it can be codded to show the location on google maps.
+                        The spotter board collectd info abt the plane ,like the current co-ordinates ,speed and altitude of the plane .The current specs are just collecting basic info ,but i plan to add more sensors like pressure sensing at tht altitude ,Measuring the temperature of the Engine (EDF) and the front facing parts of the plane tht can get heated while flying at high speeds.<br>
+                        So it collects the info sends it back to the ground where on an oled display all the info is shown ,also it can allow the ground crew to monitor the planes location on googlemaps as it can be codded to show the location on google maps.<br>
 ***RADAR***
-           The work of radar is to detect objects within its range . The objects can be like upcomming hurdels ,other planes or even birds. It can and is planned to serve as an **eagle eye** while the visual range is pretty much reduced ,also it can be made to detect the controller of the plane .i mean the person piloting the plane and in case help in doing some radar type landing 😁
+           The work of radar is to detect objects within its range . The objects can be like upcomming hurdels ,other planes or even birds. It can and is planned to serve as an **eagle eye** while the visual range is pretty much reduced ,also it can be made to detect the controller of the plane .i mean the person piloting the plane and in case help in doing some radar type landing 😁<br>
                         
 So as u've read this project ,Resembles a Symbol of my creativity and curiosty in Aviation .
 
