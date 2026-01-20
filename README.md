@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c8ef5899-8947-4f7c-a3a1-eeab8925380d" /><h1 align="center">﷽</h1>
+<h1 align="center">﷽</h1>
 <h1 align="center">
 <font size="48"><b>🛦 X-26 GREYWOLF PT-1</b></font>
 </h1><br>
@@ -38,6 +38,8 @@ Abt the electronic part .This beast has a spotter board and an on-board RADAR .<
                             - LORA SX1278 
                             - PE4259 RF SWITCH 
                             - 2x SMA CONNECTORS FOR SMA ANTENNAS.
+  THE SCHEMATIC DIAGRAM WITH NET LABELS FOR THE TRANSMITTER BOARD IS <img width="1366" height="768" alt="Screenshot (388)" src="https://github.com/user-attachments/assets/1e88453c-8f71-475e-b65f-611be99637a6" />
+
 The reciver part on the hand shows all of the info recived on a dual display ,so the major components list is as follows:
                                                                                                          - ESP32-DEVKIT-M1
                                                                                                          - LORA SX1278
