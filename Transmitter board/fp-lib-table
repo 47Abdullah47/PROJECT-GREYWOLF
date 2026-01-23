@@ -1,9 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "SMA connetor") (type "KiCad") (uri "C:/Users/haha/3D Objects/SMA connetor") (options "") (descr ""))
-	(lib (name "henry inductor") (type "KiCad") (uri "C:/Users/haha/3D Objects/henry inductor") (options "") (descr ""))
-	(lib (name "Crystal") (type "KiCad") (uri "C:/Users/haha/3D Objects/Crystal") (options "") (descr ""))
-	(lib (name "ESp32 devkit") (type "KiCad") (uri "C:/Users/haha/3D Objects/ESp32 devkit") (options "") (descr ""))
-	(lib (name "RF switch") (type "KiCad") (uri "C:/Users/haha/3D Objects/RF switch") (options "") (descr ""))
-	(lib (name "sx") (type "KiCad") (uri "C:/Users/haha/3D Objects/sx") (options "") (descr ""))
-)
