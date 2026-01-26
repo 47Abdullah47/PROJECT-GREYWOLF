@@ -43,20 +43,25 @@ Abt the electronic part .This beast has a spotter board and an on-board RADAR .<
 ![hb](https://github.com/user-attachments/assets/ee03717a-f2b7-475b-aa91-abdf492aedfc)
 
 <img width="1366" height="768" alt="Screenshot (388)" src="https://github.com/user-attachments/assets/1e88453c-8f71-475e-b65f-611be99637a6" />
+the 3d view :-<img width="1262" height="602" alt="ihnk" src="https://github.com/user-attachments/assets/daf17088-7b03-4d66-bcbb-5657dc3bd678" />
 
-The reciver part
-on the hand shows all of the info recived on a dual display ,so the major components list is as follows:
+<br><br>
+**The ***SNIPPER BOARD*****
+this the reciever part on the hand shows all of the info recived on a dual display ,so the major components list is as follows:
                                                                                                          - ESP32-DEVKIT-M1
                                                                                                          - LORA SX1278
                                                                                                          - 2x ILI9341 320x240 DISPLAY
                                                                                                          - PE4259 RF SWITCH.
-                                                                                                         Reciver board's netlablleb schematic
+                                                                                                         Reciver board's netlablleb schematic**NOTE: there are some pins unattatched on sx1278 footprint dont worry they are of clocking crystal**
                                                                                                          <img width="1287" height="559" alt="Screenshot (391)" src="https://github.com/user-attachments/assets/45967383-92cf-4259-a7b6-55cfa9fb4083" />
+                                                                                                         the 3d view :-<img width="1068" height="602" alt="sdf" src="https://github.com/user-attachments/assets/b4ef92f9-b2b6-47c5-b793-6523cec1bc4b" />
+
+                                                                                                         
 
                                                                                                          
 <br><br>
-                        So it collects the info sends it back to the ground where on an oled display all the info is shown ,also it can allow the ground crew to monitor the planes location on googlemaps as it can be codded to show the location on google maps.<br><br>
-***RADAR*** (maybe in future not currently ! also reviewers payattention here)<br><br>
+                        So it collects the info sends it back to the ground where on an oled display all the info is shown ,also it can allow the ground crew to monitor the planes location on googlemaps as it can be codded to show the location on google maps like screen .<br><br>
+***RADAR*** (maybe in future not currently ! also reviewers pay attention here)<br><br>
            The work of radar is to detect objects within its range . The objects can be like upcomming hurdels ,other planes or even birds. It can and is planned to serve as an **eagle eye** while the visual range is pretty much reduced ,also it can be made to detect the controller of the plane .i mean the person piloting the plane and in case help in doing some radar type landing 😁<br><br>                        
 So as u've read this project ,Resembles a Symbol of my creativity and curiosty in Aviation .
 
