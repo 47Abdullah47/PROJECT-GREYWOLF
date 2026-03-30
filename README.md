@@ -19,7 +19,7 @@
 > **Status:** PT-1 finished  
 > **Design:** Fusion 360  
 > **Platform:** [Hack Club Blueprint](https://blueprint.hackclub.com/projects/2458) <br>
-> **Time spent on Blueprint:** 70+ hrs <br>
+> **Time spent :** 50+ hrs <br>
 
 
 ---<br>
