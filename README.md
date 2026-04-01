@@ -69,7 +69,7 @@ The list of electronics used are:-
                          
   
 ## Wrining Diagram:-
-                ![Leopard V22](https://github.com/user-attachments/assets/6b1cacac-2594-462e-a8cd-94712c8150d9)
+               ![Leopard V22](https://github.com/user-attachments/assets/95db42b6-90dd-4fd0-8d27-464784bb9c3c)
 
 
 
