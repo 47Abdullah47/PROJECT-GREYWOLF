@@ -11,6 +11,7 @@
   <a href="#visual looks">Visual Look</a>•
   <a href="#materials list">Materials List</a>•
   <a href="#electronics list">Electronics List</a>•
+  <a href="#wiring diagram">Wiring diagram</a>
 <a href="#credits">Credits</a>•
 <a href="#license">License</a>
 </p>
@@ -67,6 +68,15 @@ The list of electronics used are:-
                          Therefore please do not mix it with Any other Aircraft,I shall be thankful to u.
                          
   
+## Wrining Diagram:-
+                > ![Uploading Leopard V22.webp…]()
+
+
+
+
+
+
+
 
 ## Credits💼📜
 First of all I'm gonna Credit my **Father** he taught me almost everything about the aircrafts
