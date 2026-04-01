@@ -11,7 +11,7 @@
   <a href="#visual looks">Visual Look</a>•
   <a href="#materials list">Materials List</a>•
   <a href="#electronics list">Electronics List</a>•
-  <a href="#wiring diagram">Wiring diagram</a>
+  <a href="#wiring diagram">Wiring diagram</a>•
 <a href="#credits">Credits</a>•
 <a href="#license">License</a>
 </p>
@@ -27,7 +27,7 @@
 
  <br><br>                        
                         
-## Brief Interview Of THE WOLF🐺
+## Brief Interview Of THE WOLF
 
 This WOLF, not a literal one, is the first PT(prototype) of the experimental plane series **GREY WOLF** 
 The PT-1 is single engine (not a literal engine could be in future)powered ,running about **1.3-1.5**meters long ,standing almost **30 cm**tall . 
@@ -69,7 +69,8 @@ The list of electronics used are:-
                          
   
 ## Wrining Diagram:-
-                > ![Uploading Leopard V22.webp…]()
+                > ![Leopard V22](https://github.com/user-attachments/assets/69883920-d971-4c7f-8653-f073fa7af9c4)
+
 
 
 
