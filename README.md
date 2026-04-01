@@ -72,7 +72,7 @@ The list of electronics used are:-
                ![Leopard V22](https://github.com/user-attachments/assets/95db42b6-90dd-4fd0-8d27-464784bb9c3c)
 
 
-
+>>wanna see the building process visit the other readme named "Building procedure".
 
 
 
