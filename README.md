@@ -70,10 +70,13 @@ The list of electronics used are:-
                          
   
 ## Wrining Diagram:-
-               ![Leopard V22](https://github.com/user-attachments/assets/95db42b6-90dd-4fd0-8d27-464784bb9c3c)
+              
+![1000094781](https://github.com/user-attachments/assets/e9828491-5347-4f7c-917c-a8750a3f63a1)
 
 
->>wanna see the building process visit the other readme named "Building procedure".
+
+
+
 
 
 
