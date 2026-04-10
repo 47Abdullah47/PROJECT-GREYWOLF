@@ -72,6 +72,8 @@ The list of electronics used are:-
 ## Wrining Diagram:-
               
 ![1000094781](https://github.com/user-attachments/assets/e9828491-5347-4f7c-917c-a8750a3f63a1)
+<img width="813" height="377" alt="1000094782" src="https://github.com/user-attachments/assets/5c3e4b4e-29e8-4053-9c99-f4520dd3d0b6" />
+
 
 
 
