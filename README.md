@@ -9,6 +9,7 @@
 <p align="center">
 <a href="#brief interview of the ">Brief interview of The WOLF</a>•
   <a href="#visual looks">Visual Look</a>•
+  <a href="#Build it?">Build it?</a>
   <a href="#materials list">Materials List</a>•
   <a href="#electronics list">Electronics List</a>•
   <a href="#wiring diagram">Wiring diagram</a>•
@@ -42,7 +43,13 @@ And the Plen has to be made with hands and other tools, but no printin.
 <img width="1366" height="768" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/3ff2fcdd-5998-4d4d-89cd-29c2dfe3bb96" />
 <img width="1332" height="448" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/44b34efe-ddbe-4e03-9ad8-37d1d54cd98a" />
 
-
+## Build it?
+<p>If u wanna build it too, i would strongly recommend going to 3d printing, cuz it aint that much easy to make it with hands only, It requires alot of experience so yeah go by 3dprinted small sections and panels,
+but if u really want to make it with bare hands, then here are the airframe sections u'll necessarily need to have a strong fuselage.
+<img width="345" height="559" alt="sfd" src="https://github.com/user-attachments/assets/874ef92b-4260-478f-8e24-5d8d4d98cb75" />
+  then take the depron sheets and cut out the 2d straightened panels from here:-
+  
+</p>
 
 
 
