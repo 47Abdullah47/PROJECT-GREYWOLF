@@ -72,25 +72,24 @@ The list of materials used is as follows:-
   - Nylon wet = weak prints
     so use dry filament.
     
-  | Part             | Material     | Priority |
-| ---------------- | ------------ | -------- |
-| Wings            | PA6-CF       | ⭐⭐⭐⭐⭐    |
-| Spar             | PA6-CF       | ⭐⭐⭐⭐⭐    |
-| Fuselage Frame   | PA6-CF       | ⭐⭐⭐⭐     |
-| Fuselage Shell   | PETG-CF      | ⭐⭐⭐      |
-| Nose             | PC / Nylon   | ⭐⭐⭐⭐     |
-| Motor Mount      | PA6-CF / PC  | ⭐⭐⭐⭐⭐    |
-| Control Surfaces | Nylon / PETG | ⭐⭐⭐      |
-| Hinges           | Nylon        | ⭐⭐⭐⭐⭐    |
-| Landing Gear     | PC           | ⭐⭐⭐⭐     |
-
+  | Part             | Material     | Priority |<br>
+| ---------------- | ------------ | -------- |<br>
+| Wings            | PA6-CF       | ⭐⭐⭐⭐⭐    |<br>
+| Spar             | PA6-CF       | ⭐⭐⭐⭐⭐    |<br>
+| Fuselage Frame   | PA6-CF       | ⭐⭐⭐⭐     |<br>
+| Fuselage Shell   | PETG-CF      | ⭐⭐⭐      |<br>
+| Nose             | PC / Nylon   | ⭐⭐⭐⭐     |<br>
+| Motor Mount      | PA6-CF / PC  | ⭐⭐⭐⭐⭐    |<br>
+| Control Surfaces | Nylon / PETG | ⭐⭐⭐      |<br>
+| Hinges           | Nylon        | ⭐⭐⭐⭐⭐    |<br>
+| Landing Gear     | PC           | ⭐⭐⭐⭐     |<br>
+<br>
 <br><br>
 ## Electronics List🔌
 The list of electronics used are:-
 - **Sg-90 Servo** 180 degree rotating servo, for gaining control over control surfaces.
 - **80mm Edf**  The power unit thats gonna powerup the whole jet.
 - **22.2v 6000mah Lipo**for running these heavy electronics.
-- **Small LED lights** for night flight and night landing purpose
 ***NOTE:-***other electronics and their firmwares are included in their respective repos
 <br><br>
 **📣AN IMPORTANT NOTICE**<br>
