@@ -70,6 +70,7 @@ The list of materials used is as follows:-
      Gyroid infill ~30–50%
   
   - Nylon wet = weak prints
+    so use dry filament.
 <br><br>
 ## Electronics List🔌
 The list of electronics used are:-
