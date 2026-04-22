@@ -56,9 +56,12 @@ Here is the prinables page if u wanna really want the plane 3d print it section 
 <br><br>
 ## Materials List
 The list of materials used is as follows:-
+**If u want to build it hands then:-**<br>
 - **DEPRON** for surface covering and making inner supports maybe.
 - **CARBONFIBRE** for making spars,ribs,and frames which are going to handle some aerodynamic stress.
-- **PLYWOOD** supplementary material in case of not usin the carbon fibre. maybe i wont use this.
+- **PLYWOOD** supplementary material in case of not usin the carbon fibre. maybe i wont use this.<br>
+**If u wanna 3dprint then:-**
+- ****
 <br><br>
 ## Electronics List🔌
 The list of electronics used are:-
