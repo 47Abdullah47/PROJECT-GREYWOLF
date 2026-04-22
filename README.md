@@ -65,6 +65,11 @@ The list of materials used is as follows:-
   - mpact zones (nose, mounts): → Polycarbonate
   - Control parts: → Nylon
   - Non-critical parts: → PETG
+  - Use:
+     Walls: 4–6
+     Gyroid infill ~30–50%
+  
+  - Nylon wet = weak prints
 <br><br>
 ## Electronics List🔌
 The list of electronics used are:-
