@@ -35,7 +35,6 @@ The PT-1 is single engine (not a literal engine could be in future)powered ,runn
 The WOLF has a wingspan of almost **a meter** and a wing area of a **meter** too. Has a total of **8 control surfaces** Two of 'em are flaps,two ailerons ,two stabilators, and two rudders ,not rudders but whole moving tails.Also features three landing gears all of 'em with openning and closing bays.Also in this prototype i've designed my own type of somewhat lookin like S-duct ,Just to study the effects of air in turbulence while flying at low altitudes at high speeds.Expected speeds are like 150-250 mph ,result of edfs 3.4-4kg thrust and planes empty weight being 1.5-2 kgs ,looks a big number but thats a rough guess and the weight can be reduced in real life development.
 Abt the electronics , the budget was going very high above 400$ so, i've decided to build them separately.<br>
 *Also the .f3d file is very massive upto 150mb's so i've given a google drive link in the **SOURCE FILE*** <a href="Source files">Link to the source file </a>
-And the Plen has to be made with hands and other tools, but no printin.
 <br><br>
 
 ## Visual Looks
@@ -80,18 +79,6 @@ The list of electronics used are:-
               
 ![1000094781](https://github.com/user-attachments/assets/e9828491-5347-4f7c-917c-a8750a3f63a1)
 <img width="813" height="377" alt="1000094782" src="https://github.com/user-attachments/assets/5c3e4b4e-29e8-4053-9c99-f4520dd3d0b6" />
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Credits💼📜
 First of all I'm gonna Credit my **Father** he taught me almost everything about the aircrafts
