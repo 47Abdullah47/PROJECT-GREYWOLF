@@ -71,7 +71,61 @@ The list of materials used is as follows:-
   
   - Nylon wet = weak prints
     so use dry filament.
-    
+    <table>
+      <tr>
+        <th>**Part**</th>
+        <th>**Material**</th>
+        <th>**Priority**</th>
+      </tr>
+      <tr>
+      <td>----------------</td>
+      <td>------------</td>
+      <td>--------</td>
+      </tr>
+      <tr>
+        <td>**Wings**</td>
+        <td>PA6-CF</td>
+        <td>⭐⭐⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>**Spar**</td>
+        <td>PA6-CF</td>
+        <td>⭐⭐⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>**Fuselage Frame**</td>
+        <td>PA6-CF</td>
+        <td>⭐⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>**Fuselage Shell/Panles**</td>
+        <td>PETG-CF</td>
+        <td>⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>**Nose**</td>
+        <td>PC / Nylon</td>
+        <td>⭐⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>**Motor Mount**</td>
+        <td>PA6-CF / PC</td>
+        <td>⭐⭐⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>**Control Surfaces**</td>
+        <td>Nylon / PETG</td>
+        <td>⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>**Hinges**</td>
+        <td>Nylon</td>
+        <td>⭐⭐⭐⭐⭐</td>
+      </tr>
+      <td>**Landing gear**</td>
+      <td>PC</td>
+      <td>⭐⭐⭐⭐</td>
+    </table>
 <table>  | Part             | Material     | Priority |<br>
 | ---------------- | ------------ | -------- |<br>
 | Wings&nbsp&nbsp&nbsp| PA6-CF&nbsp&nbsp&nbsp| ⭐⭐⭐⭐⭐    |<br>
