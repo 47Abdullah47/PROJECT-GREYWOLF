@@ -61,7 +61,10 @@ The list of materials used is as follows:-
 - **CARBONFIBRE** for making spars,ribs,and frames which are going to handle some aerodynamic stress.
 - **PLYWOOD** supplementary material in case of not usin the carbon fibre. maybe i wont use this.<br>
 **If u wanna 3dprint then:-**
-- ****
+  - Main structure / wings spar: → PA-CF
+  - mpact zones (nose, mounts): → Polycarbonate
+  - Control parts: → Nylon
+  - Non-critical parts: → PETG
 <br><br>
 ## Electronics List🔌
 The list of electronics used are:-
