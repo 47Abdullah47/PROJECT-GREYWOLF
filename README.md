@@ -71,6 +71,19 @@ The list of materials used is as follows:-
   
   - Nylon wet = weak prints
     so use dry filament.
+    
+  | Part             | Material     | Priority |
+| ---------------- | ------------ | -------- |
+| Wings            | PA6-CF       | ⭐⭐⭐⭐⭐    |
+| Spar             | PA6-CF       | ⭐⭐⭐⭐⭐    |
+| Fuselage Frame   | PA6-CF       | ⭐⭐⭐⭐     |
+| Fuselage Shell   | PETG-CF      | ⭐⭐⭐      |
+| Nose             | PC / Nylon   | ⭐⭐⭐⭐     |
+| Motor Mount      | PA6-CF / PC  | ⭐⭐⭐⭐⭐    |
+| Control Surfaces | Nylon / PETG | ⭐⭐⭐      |
+| Hinges           | Nylon        | ⭐⭐⭐⭐⭐    |
+| Landing Gear     | PC           | ⭐⭐⭐⭐     |
+
 <br><br>
 ## Electronics List🔌
 The list of electronics used are:-
