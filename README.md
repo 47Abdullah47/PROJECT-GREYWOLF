@@ -126,6 +126,7 @@ The list of materials used is as follows:-
       <td>PC</td>
       <td>⭐⭐⭐⭐</td>
     </table>
+    <b>_Well it would be costly if u print it , but still worth it cuz u could just put in depron of same price in jsut getting the perfect shape, so yeah if u really wanna make it flyable print it with descrivbed filaments_</b>
 
 <br><br>
 ## Electronics List🔌
