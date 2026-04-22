@@ -72,7 +72,7 @@ The list of materials used is as follows:-
   - Nylon wet = weak prints
     so use dry filament.
     
-  | Part             | Material     | Priority |<br>
+<table>  | Part             | Material     | Priority |<br>
 | ---------------- | ------------ | -------- |<br>
 | Wings            | PA6-CF       | ⭐⭐⭐⭐⭐    |<br>
 | Spar             | PA6-CF       | ⭐⭐⭐⭐⭐    |<br>
@@ -84,6 +84,7 @@ The list of materials used is as follows:-
 | Hinges           | Nylon        | ⭐⭐⭐⭐⭐    |<br>
 | Landing Gear     | PC           | ⭐⭐⭐⭐     |<br>
 <br>
+  </table>
 <br><br>
 ## Electronics List🔌
 The list of electronics used are:-
