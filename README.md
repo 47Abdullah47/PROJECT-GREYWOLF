@@ -74,15 +74,15 @@ The list of materials used is as follows:-
     
 <table>  | Part             | Material     | Priority |<br>
 | ---------------- | ------------ | -------- |<br>
-| Wings            | PA6-CF       | ⭐⭐⭐⭐⭐    |<br>
-| Spar             | PA6-CF       | ⭐⭐⭐⭐⭐    |<br>
-| Fuselage Frame   | PA6-CF       | ⭐⭐⭐⭐     |<br>
-| Fuselage Shell   | PETG-CF      | ⭐⭐⭐      |<br>
-| Nose             | PC / Nylon   | ⭐⭐⭐⭐     |<br>
-| Motor Mount      | PA6-CF / PC  | ⭐⭐⭐⭐⭐    |<br>
-| Control Surfaces | Nylon / PETG | ⭐⭐⭐      |<br>
-| Hinges           | Nylon        | ⭐⭐⭐⭐⭐    |<br>
-| Landing Gear     | PC           | ⭐⭐⭐⭐     |<br>
+| Wings&nbsp&nbsp&nbsp| PA6-CF&nbsp&nbsp&nbsp| ⭐⭐⭐⭐⭐    |<br>
+| Spar&nbsp&nbsp&nbsp| PA6-CF&nbsp&nbsp&nbsp| ⭐⭐⭐⭐⭐    |<br>
+| Fuselage Frame&nbsp| PA6-CF&nbsp&nbsp&nbsp| ⭐⭐⭐⭐     |<br>
+| Fuselage Shell&nbsp| PETG-CF&nbsp&nbsp&nbsp| ⭐⭐⭐      |<br>
+| Nose&nbsp&nbsp&nbsp| PC / Nylon&nbsp&nbsp| ⭐⭐⭐⭐     |<br>
+| Motor Mount&nbsp&nbsp| PA6-CF / PC&nbsp| ⭐⭐⭐⭐⭐    |<br>
+| Control Surfaces&nbsp| Nylon / PETG&nbsp| ⭐⭐⭐      |<br>
+| Hinges&nbsp&nbsp&nbsp| Nylon&nbsp&nbsp| ⭐⭐⭐⭐⭐    |<br>
+| Landing Gear&nbsp&nbsp| PC&nbsp&nbsp| ⭐⭐⭐⭐     |<br>
 <br>
   </table>
 <br><br>
