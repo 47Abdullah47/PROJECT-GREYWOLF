@@ -83,62 +83,50 @@ The list of materials used is as follows:-
       <td>--------</td>
       </tr>
       <tr>
-        <td>**Wings**</td>
+        <td>Wings</td>
         <td>PA6-CF</td>
         <td>⭐⭐⭐⭐⭐</td>
       </tr>
       <tr>
-        <td>**Spar**</td>
+        <td>Spar</td>
         <td>PA6-CF</td>
         <td>⭐⭐⭐⭐⭐</td>
       </tr>
       <tr>
-        <td>**Fuselage Frame**</td>
+        <td>Fuselage Frame</td>
         <td>PA6-CF</td>
         <td>⭐⭐⭐⭐</td>
       </tr>
       <tr>
-        <td>**Fuselage Shell/Panles**</td>
+        <td>Fuselage Shell/Panles</td>
         <td>PETG-CF</td>
         <td>⭐⭐⭐</td>
       </tr>
       <tr>
-        <td>**Nose**</td>
+        <td>Nose</td>
         <td>PC / Nylon</td>
         <td>⭐⭐⭐⭐</td>
       </tr>
       <tr>
-        <td>**Motor Mount**</td>
+        <td>Motor Mount</td>
         <td>PA6-CF / PC</td>
         <td>⭐⭐⭐⭐⭐</td>
       </tr>
       <tr>
-        <td>**Control Surfaces**</td>
+        <td>Control Surfaces</td>
         <td>Nylon / PETG</td>
         <td>⭐⭐⭐</td>
       </tr>
       <tr>
-        <td>**Hinges**</td>
+        <td>Hinges</td>
         <td>Nylon</td>
         <td>⭐⭐⭐⭐⭐</td>
       </tr>
-      <td>**Landing gear**</td>
+      <td>Landing gear</td>
       <td>PC</td>
       <td>⭐⭐⭐⭐</td>
     </table>
-<table>  | Part             | Material     | Priority |<br>
-| ---------------- | ------------ | -------- |<br>
-| Wings&nbsp&nbsp&nbsp| PA6-CF&nbsp&nbsp&nbsp| ⭐⭐⭐⭐⭐    |<br>
-| Spar&nbsp&nbsp&nbsp| PA6-CF&nbsp&nbsp&nbsp| ⭐⭐⭐⭐⭐    |<br>
-| Fuselage Frame&nbsp| PA6-CF&nbsp&nbsp&nbsp| ⭐⭐⭐⭐     |<br>
-| Fuselage Shell&nbsp| PETG-CF&nbsp&nbsp&nbsp| ⭐⭐⭐      |<br>
-| Nose&nbsp&nbsp&nbsp| PC / Nylon&nbsp&nbsp| ⭐⭐⭐⭐     |<br>
-| Motor Mount&nbsp&nbsp| PA6-CF / PC&nbsp| ⭐⭐⭐⭐⭐    |<br>
-| Control Surfaces&nbsp| Nylon / PETG&nbsp| ⭐⭐⭐      |<br>
-| Hinges&nbsp&nbsp&nbsp| Nylon&nbsp&nbsp| ⭐⭐⭐⭐⭐    |<br>
-| Landing Gear&nbsp&nbsp| PC&nbsp&nbsp| ⭐⭐⭐⭐     |<br>
-<br>
-  </table>
+
 <br><br>
 ## Electronics List🔌
 The list of electronics used are:-
