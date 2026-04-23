@@ -144,7 +144,40 @@ The list of electronics used are:-
                          Therefore please do not mix it with Any other Aircraft,I shall be thankful to u.
                          
 
-<h2>BOM(bill of materials to be bought and every other component)</h2>
+<h2 align="center">BOM(bill of materials to be bought and every other component)</h2>
+<table>
+  <tr>
+    <th><b>Part name</b></th>
+    <th><b>Price</b></th>
+    <th><b>Reason</b></th>
+    <th>link</th>
+  </tr>
+  <tr>
+    <td><b>12-s 80mm EDF</td>
+      <td>86.87$</td>
+      <td>Main propulsion</td>
+      <td><a href="https://www.aliexpress.com/item/1005005825766168.html?spm=a2g0o.cart.0.0.25b838dakmcktl&mp=1&pdp_npi=6%40dis%21USD%21USD%20112.82%21USD%2086.87%21%21USD%2086.00%21%21%21%40210156fc17748877096532184e0ac4%2112000034487363196%21ct%21PK%216195667158%21%211%210%21">Ali express</a></td>
+  </tr>
+      <tr>
+        <td><b>Sg-90 Servo(10)</b></td>
+        <td>PKR 300(10)</td>
+        <td>Mini actuator for adding functionality</td>
+        <td><a href="https://electrobes.com/product/towerpro-sg-90-servo-motor-180-degree-rotation/">Electrobes(local store)</a></td>
+      </tr>
+      <tr>
+        <td><b>22.2v 5200 mah lipo(2)</b></td>
+        <td>PKR 19000(2)</td>
+        <td>Main power source</td>
+        <td><a href="https://electrobes.com/product/5200mah-22-2v-6s-40c-lipo-lithium-polymer-rechargeable-battery-pack-for-rc-drone/">Electrobes(loacal strore)</a></td>
+      </tr>
+      <tr>
+        <td><b>100A esc</b></td>#
+        <td>PKR 10800</td>
+        <td>For doing the work of a pump in a real plane</td>
+        <td><a href="https://www.smarthobby.pk/product-page/hobby-wing-skywalker-100a-v2-esc">Smarthobby.pk(local shop)</a></td>
+      </tr>
+      
+</table>
 
   
 ## Wrining Diagram:-
