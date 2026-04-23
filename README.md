@@ -143,6 +143,9 @@ The list of electronics used are:-
                          The airframes they are enhanced form of F-16's Air frames.
                          Therefore please do not mix it with Any other Aircraft,I shall be thankful to u.
                          
+
+<h2>BOM(bill of materials to be bought and every other component)</h2>
+
   
 ## Wrining Diagram:-
               NO PCBS REQUIRED HERE, ALL WIRING  HAS TO BE HAND DONE! 
