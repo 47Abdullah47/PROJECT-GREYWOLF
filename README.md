@@ -145,7 +145,7 @@ The list of electronics used are:-
                          
   
 ## Wrining Diagram:-
-              
+              NO PCBS REQUIRED HERE, ALL WIRING  HAS TO BE HAND DONE! 
 ![1000094781](https://github.com/user-attachments/assets/e9828491-5347-4f7c-917c-a8750a3f63a1)
 
 
