@@ -180,6 +180,7 @@ The list of electronics used are:-
         <td>------------</td>
         <td><b>Total</b></td>
         <td>146.33$(to be bought from aliexpress)</td>
+        <td>------------</td>
       </tr>
       
 </table>
