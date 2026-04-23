@@ -176,6 +176,11 @@ The list of electronics used are:-
         <td>For doing the work of a pump in a real plane</td>
         <td><a href="https://www.smarthobby.pk/product-page/hobby-wing-skywalker-100a-v2-esc">Smarthobby.pk(local shop)</a></td>
       </tr>
+      <tr>
+        <td>------------</td>
+        <td><b>Total</b></td>
+        <td>146.33$(to be bought from aliexpress)</td>
+      </tr>
       
 </table>
 
