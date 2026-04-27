@@ -43,11 +43,9 @@ Abt the advanced integrated electronics , the budget was going very high so, i'v
 <img width="1332" height="448" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/44b34efe-ddbe-4e03-9ad8-37d1d54cd98a" />
 
 ## Build it?
-<p> i would personally not recommend to build this project cuz its still in prototyping, and if u are dumb enough like me so go on, but at ur own risk.I would strongly recommend going to 3d printing, cuz it aint that much easy to make it with hands only, It requires alot of experience so yeah go by 3dprinting small sections and panels,
-but it can be made usin ur hands, which im gonna do. But that is not easy task, either u will bend smth tooo much or make some irregularities which could affect the flying of the plane.<br>
-Here is the prinables page if u wanna really want the plane 3d print it section by section.<br>
-<a href=https://www.printables.com/@MuhammadABDU_4059947/models>click here</a>
-
+<p> I would personally not recommend to build this project cuz its still in prototyping,
+and some errors , minor enough, can occur while making this plane, so yeah DONT TRY TO MAKE THIS PLANE BEFORE ME, 
+so as soon as i get the parts grant and build this plane, run safety checks and other safety runs, then I'll upload the instructions for building this plane!
   
 </p>
 
@@ -60,73 +58,6 @@ The list of materials used is as follows:-
 - **DEPRON** for surface covering and making inner supports maybe.
 - **CARBONFIBRE** for making spars,ribs,and frames which are going to handle some aerodynamic stress.
 - **PLYWOOD** supplementary material in case of not usin the carbon fibre. maybe i wont use this.<br>
-**If u wanna 3dprint then:-**
-  - Main structure / wings spar: → PA-CF
-  - mpact zones (nose, mounts): → Polycarbonate
-  - Control parts: → Nylon
-  - Non-critical parts: → PETG
-  - Use:
-     Walls: 4–6
-     Gyroid infill ~30–50%
-  
-  - Nylon wet = weak prints
-    so use dry filament.
-    <table>
-      <tr>
-        <th><b>Part</b></th>
-        <th><b>Material</b></th>
-        <th><b>Priority</b></th>
-      </tr>
-      <tr>
-      <td>----------------</td>
-      <td>------------</td>
-      <td>--------</td>
-      </tr>
-      <tr>
-        <td><b>Wings</b></td>
-        <td>PA6-CF</td>
-        <td>⭐⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td><b>Spar</b></td>
-        <td>PA6-CF</td>
-        <td>⭐⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td><b>Fuselage Frame</b></td>
-        <td>PA6-CF</td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td><b>Fuselage Shell/Panles</b></td>
-        <td>PETG-CF</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td><b>Nose</b></td>
-        <td>PC / Nylon</td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td><b>Motor Mount</b></td>
-        <td>PA6-CF / PC</td>
-        <td>⭐⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td><b>Control Surfaces</b></td>
-        <td>Nylon / PETG</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td><b>Hinges</b></td>
-        <td>Nylon</td>
-        <td>⭐⭐⭐⭐⭐</td>
-      </tr>
-      <td><b>Landing gear</b></td>
-      <td>PC</td>
-      <td>⭐⭐⭐⭐</td>
-    </table>
-    <b>_Well it would be costly if u print it , but still worth it cuz u could just put in depron of same price in jsut getting the perfect shape, so yeah if u really wanna make it flyable print it with descrivbed filaments_</b>
 
 <br><br>
 ## Electronics List🔌
