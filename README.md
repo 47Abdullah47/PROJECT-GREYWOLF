@@ -75,7 +75,7 @@ The list of electronics used are:-
                          Therefore please do not mix it with Any other Aircraft,I shall be thankful to u.
                          
 
-<h2 align="center">BOM(bill of materials to be bought and every other component)</h2>
+<h2 align="center">BOM(bill of materials to be bought)</h2>
 <table>
   <tr>
     <th><b>Part name</b></th>
