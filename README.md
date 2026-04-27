@@ -38,9 +38,20 @@ Abt the advanced integrated electronics , the budget was going very high so, i'v
 <br><br>
 
 ## Visual Looks
+
+<h2 align="center"><b>CAD Visuals</b></h2>
 <img width="1366" height="768" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/79038fe9-667d-4d73-b458-954ee69030db" />
 <img width="1366" height="768" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/3ff2fcdd-5998-4d4d-89cd-29c2dfe3bb96" />
 <img width="1332" height="448" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/44b34efe-ddbe-4e03-9ad8-37d1d54cd98a" />
+<h2 align="center"><b>Rendered Visuals</b></h2>
+<img width="1366" height="559" alt="sa" src="https://github.com/user-attachments/assets/2d3e70eb-05b6-482c-999b-a1dfd2cca9a0" />
+<img width="1366" height="559" alt="3d print file v2" src="https://github.com/user-attachments/assets/05801154-7e74-43a8-a288-93ab383051e0" />
+<img width="1366" height="559" alt="ga" src="https://github.com/user-attachments/assets/a454421b-2992-45c8-9742-f32c235d7944" />
+<img width="1366" height="559" alt="fx" src="https://github.com/user-attachments/assets/90b29206-22b7-4296-b81f-d5549d2630e6" />
+<img width="1366" height="559" alt="vgjbkj" src="https://github.com/user-attachments/assets/af2dc66f-c6e2-4934-9f55-c89bb54c4b2d" />
+<img width="1366" height="559" alt="fdxf" src="https://github.com/user-attachments/assets/8a61bb45-acfc-4fa3-a223-34061365dafd" />
+<img width="1366" height="559" alt="jk" src="https://github.com/user-attachments/assets/c63c61cd-cb76-465f-b0cb-f1ba5e8a9e3c" />
+<img width="1366" height="559" alt="cyfugi" src="https://github.com/user-attachments/assets/37c090e7-9e2b-4e41-b831-4fa0ef1fce0d" />
 
 ## Build it?
 <p> I would personally not recommend to build this project cuz its still in prototyping,
