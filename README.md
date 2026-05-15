@@ -13,6 +13,7 @@
   <a href="#materials list">Materials List</a>•
   <a href="#electronics list">Electronics List</a>•
   <a href="#wiring diagram">Wiring diagram</a>•
+  <a href="#assembly">Assemby</a>•
 <a href="#credits">Credits</a>•
 <a href="#license">License</a>
 </p>
@@ -128,13 +129,20 @@ The list of electronics used are:-
 </table>
 
   
-## Wrining Diagram:-
+## Wrining Diagram
               NO PCBS REQUIRED HERE, ALL WIRING  HAS TO BE HAND DONE! 
               And plz dont mind at the diagram, i made it on a touchpad
 <img width="1366" height="538" alt="elec 2" src="https://github.com/user-attachments/assets/5e5e0da4-2eb1-411f-bb1d-6472232fde2c" />
 <img width="1366" height="538" alt="elec" src="https://github.com/user-attachments/assets/3f0233a8-e0d2-44fd-b3ad-49cb08857d07" />
 
+## Assembly
+Umm, talking abt the assembly, i found out making dis-assembly pretty much easy, as its just a reverse of assembly, so uhh ive made a fusion 360 animation of it , here:- 
 
+
+https://github.com/user-attachments/assets/c69677a2-ce32-4099-88b4-ff30b79dbb55
+
+
+ 
 ## Credits💼📜
 First of all I'm gonna Credit my **Father** he taught me almost everything about the aircrafts
 He's a professional in his feild ,and He is the who encouraged me to build this project..
@@ -150,6 +158,11 @@ Also because of **Blueprint** the project that was only a cad file ,is going to 
 ## License🔐
 
 CC-BY-4.0
+
+
+
+
+
 
 
 
