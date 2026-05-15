@@ -130,7 +130,9 @@ The list of electronics used are:-
   
 ## Wrining Diagram:-
               NO PCBS REQUIRED HERE, ALL WIRING  HAS TO BE HAND DONE! 
-![1000094781](https://github.com/user-attachments/assets/e9828491-5347-4f7c-917c-a8750a3f63a1)
+              And plz dont mind at the diagram, i made it on a touchpad
+<img width="1366" height="538" alt="elec 2" src="https://github.com/user-attachments/assets/5e5e0da4-2eb1-411f-bb1d-6472232fde2c" />
+<img width="1366" height="538" alt="elec" src="https://github.com/user-attachments/assets/3f0233a8-e0d2-44fd-b3ad-49cb08857d07" />
 
 
 ## Credits💼📜
