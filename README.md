@@ -4,7 +4,7 @@
 </h1><br>
 
 <h4 align="center">
-  <b>An experimental prototype of <i>X-26 GREYWOLF</i></b>
+  <b>The first working prototype of <i>X-26 GREYWOLF</i></b>
 </h4>
 <p align="center">
 <a href="#brief interview of the ">Brief interview of The WOLF</a>•
