@@ -136,11 +136,9 @@ The list of electronics used are:-
 <img width="1366" height="538" alt="elec" src="https://github.com/user-attachments/assets/3f0233a8-e0d2-44fd-b3ad-49cb08857d07" />
 
 ## Assembly
-Umm, talking abt the assembly, i found out making dis-assembly pretty much easy, as its just a reverse of assembly, so uhh ive made a fusion 360 animation of it , here:- 
+The assembling process is as follows:-
 
-
-https://github.com/user-attachments/assets/c69677a2-ce32-4099-88b4-ff30b79dbb55
-
+First of all the sections/ airframe ribs, will be planted on to the Air duct,
 
  
 ## Credits💼📜
@@ -152,7 +150,7 @@ And hes the one who told me about **Blueprint**.So if he wouldnt have challenged
 led me to design this beast.
 
 Thirdly **Hackclub Blueprint**
-I wanna thank the team for starting this type of projects ,that enables many teenagers to enhance thier skills
+I wanna thank the team for starting this type of project, that enables many teenagers to enhance thier skills
 Also because of **Blueprint** the project that was only a cad file ,is going to come to life.
 
 ## License🔐
