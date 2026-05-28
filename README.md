@@ -136,10 +136,10 @@ First of all the sections/ airframe ribs, will be planted on to the Air duct,
 
  
 ## Credits💼📜
-First of all I'm gonna Credit my **Father** he taught me almost everything about the aircrafts
+First of all I'm gonna Credit my **Father**, he taught me almost everything about the aircrafts.
 He's a professional in his feild ,and He is the who encouraged me to build this project..
 
-Secondly My **Big Bro** he was the atual reason i built it ,cuz he challenged me to make my own one
+Secondly My **Big Bro**, he was the atual reason i built it ,cuz he challenged me to make my own one
 And hes the one who told me about **Blueprint**.So if he wouldnt have challenged me ,my mind  wouldnt have accelerated those ideas that 
 led me to design this beast.
 
