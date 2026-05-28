@@ -9,7 +9,6 @@
 <p align="center">
 <a href="#brief interview of the ">Brief interview of The WOLF</a>•
   <a href="#visual looks">Visual Look</a>•
-  <a href="#Build it?">Build it?</a>
   <a href="#materials list">Materials List</a>•
   <a href="#electronics list">Electronics List</a>•
   <a href="#wiring diagram">Wiring diagram</a>•
@@ -54,11 +53,6 @@ Abt the advanced integrated electronics , the budget was going very high so, i'v
 <img width="1366" height="559" alt="jk" src="https://github.com/user-attachments/assets/c63c61cd-cb76-465f-b0cb-f1ba5e8a9e3c" />
 <img width="1366" height="559" alt="cyfugi" src="https://github.com/user-attachments/assets/37c090e7-9e2b-4e41-b831-4fa0ef1fce0d" />
 
-## Build it?
-<p> I would personally not recommend to build this project cuz its still in prototyping,
-and some errors , minor enough, can occur while making this plane, so yeah DONT TRY TO MAKE THIS PLANE BEFORE ME, 
-so as soon as i get the parts grant and build this plane, run safety checks and other safety runs, then I'll upload the instructions for building this plane!
-  
 </p>
 
 
