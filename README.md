@@ -22,7 +22,7 @@
 > **CAD Platform:** Autodesk Fusion 360  
 > **Development Platform:** [Hackclub Stasis](https://stasis.hackclub.com/dashboard/projects/cmnfqlx3300nv01qimu2rgsk3)  
 > **Design Time Investment:** 50+ Hours  
-> **Source CAD File:** 💾 [Download Massive Fusion 360 (.f3d) File via Google Drive](LINK_TO_YOUR_GOOGLE_DRIVE_HERE)
+> **Source CAD File:** 💾 [Download Massive Fusion 360 (.f3d) File via Google Drive](adadas)
 
 ---
 
