@@ -1,161 +1,134 @@
 <h1 align="center">﷽</h1>
 <h1 align="center">
-<font size="48"><b>🛦 X-26 GREYWOLF PT-1</b></font>
+<font size="6"><b>🛦 X-26 GREYWOLF PT-1</b></font>
 </h1><br>
 
 <h4 align="center">
-  <b>The first working prototype of <i>X-26 GREYWOLF</i></b>
+  <b>The First High-Performance Experimental 12S EDF Prototype of the YF-26 GREYWOLF Program</b>
 </h4>
 <p align="center">
-<a href="#brief interview of the ">Brief interview of The WOLF</a>•
-  <a href="#visual looks">Visual Look</a>•
-  <a href="#materials list">Materials List</a>•
-  <a href="#electronics list">Electronics List</a>•
-  <a href="#wiring diagram">Wiring diagram</a>•
-  <a href="#assembly">Assemby</a>•
-<a href="#credits">Credits</a>•
-<a href="#license">License</a>
+  <a href="#technical-specifications">Technical Specifications</a> •
+  <a href="#visual-looks">Visual Looks</a> •
+  <a href="#airframe-materials-list">Materials</a> •
+  <a href="#electronics--propulsion-system">Electronics</a> •
+  <a href="#system-wiring-diagram">Wiring Diagram</a> •
+  <a href="#assembly-guide">Assembly</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#license">License</a>
 </p>
 <br>
 
-> **Status:** PT-1 finished  
-> **Design:** Fusion 360  
-> **Platform:** [Hack Club Blueprint](https://blueprint.hackclub.com/projects/2458)(formerly) and (currently) [Hackclub Stasis](https://stasis.hackclub.com/dashboard/projects/cmnfqlx3300nv01qimu2rgsk3)  <br>
-> **Time spent :** 50+ hrs <br>
+> **Project Status:** Prototype 1 (PT-1) Engineering & CAD Phase Complete  
+> **CAD Platform:** Autodesk Fusion 360  
+> **Development Platform:** [Hackclub Stasis](https://stasis.hackclub.com/dashboard/projects/cmnfqlx3300nv01qimu2rgsk3)  
+> **Design Time Investment:** 50+ Hours  
+> **Source CAD File:** 💾 [Download Massive Fusion 360 (.f3d) File via Google Drive](LINK_TO_YOUR_GOOGLE_DRIVE_HERE)
 
+---
 
----<br>
+## Technical Specifications
 
- <br><br>                        
-                        
-## Brief Interview Of THE WOLF
+The **X-26 GREYWOLF PT-1** is a high-speed, scratch-built experimental scale RC jet aircraft. It is designed around an advanced integrated propulsion duct system and multi-axis control surface layout to study RC level transonic airflow behavior and high-speed stability profiles at low altitudes.
 
-This WOLF, not a literal one, is the first PT(prototype) of the experimental plane series **GREY WOLF** 
-The PT-1 is single engine (not a literal engine could be in future)powered ,running about **1.3-1.5**meters long ,standing almost **30 cm**tall . 
-The WOLF has a wingspan of almost **a meter** and a wing area of a **meter** too. Has a total of **8 control surfaces** Two of 'em are flaps,two ailerons ,two stabilators, and two rudders ,not rudders but whole moving tails.Also features three landing gears all of 'em with openning and closing bays.Also in this prototype i've designed my own type of somewhat lookin like S-duct ,Just to study the effects of air in turbulence while flying at low altitudes at high speeds.Expected speeds are like 100-110 mph ,result of edfs 4-5kg thrust and planes empty weight being 1.5-2 kgs ,looks a big number but thats a rough guess and the weight can be reduced in real life development.
-Abt the advanced integrated electronics , the budget was going very high so, i've decided to build them separately.<br>
-*Also the .f3d file is very massive upto 150mb's so i've given a google drive link in the **SOURCE FILE*** <a href="SOURCE FILE.F3D">Link to the source file </a>
-<br><br>
+* **Fuselage Length:** 1.3 - 1.5 meters
+* **Fuselage Height:** 30 cm
+* **Wingspan:** ~1.0 meter
+* **Wing Area:** ~1.0 m²
+* **Total Control Surfaces:** 6 channels (2x Flaps, 2x Ailerons, 2x Stabilators)
+* **Landing Gear System(in Advanced version):** 3x Retractable landing gear assemblies featuring fully operational actuated bay doors.
+* **Special Aerodynamic Feature:** Features an integrated custom-engineered S-Duct intake system designed to stabilize air intake turbulence under high static pressures.
+* **Performance Profile:** Estimated empty airframe weight ranges from 2 - ~3 kg. Powered by a high-output 12S electric ducted fan producing between 4.0 - 5.0 kg of static thrust, the airframe targets a top speed vector of 100 - 110 mph.
+
+*Note: The structural components, nose cone sections, and access hatches are modeled as independent components within the source assembly to allow for separate modular fabrication and easy battery bay access.*
+
+---
 
 ## Visual Looks
 
-<h2 align="center"><b>CAD Visuals</b></h2>
-<img width="1366" height="768" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/79038fe9-667d-4d73-b458-954ee69030db" />
-<img width="1366" height="768" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/3ff2fcdd-5998-4d4d-89cd-29c2dfe3bb96" />
-<img width="1332" height="448" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/44b34efe-ddbe-4e03-9ad8-37d1d54cd98a" />
-<h2 align="center"><b>Rendered Visuals</b></h2>
-<img width="1366" height="559" alt="sa" src="https://github.com/user-attachments/assets/2d3e70eb-05b6-482c-999b-a1dfd2cca9a0" />
-<img width="1366" height="559" alt="3d print file v2" src="https://github.com/user-attachments/assets/05801154-7e74-43a8-a288-93ab383051e0" />
-<img width="1366" height="559" alt="ga" src="https://github.com/user-attachments/assets/a454421b-2992-45c8-9742-f32c235d7944" />
-<img width="1366" height="559" alt="fx" src="https://github.com/user-attachments/assets/90b29206-22b7-4296-b81f-d5549d2630e6" />
-<img width="1366" height="559" alt="vgjbkj" src="https://github.com/user-attachments/assets/af2dc66f-c6e2-4934-9f55-c89bb54c4b2d" />
-<img width="1366" height="559" alt="fdxf" src="https://github.com/user-attachments/assets/8a61bb45-acfc-4fa3-a223-34061365dafd" />
-<img width="1366" height="559" alt="jk" src="https://github.com/user-attachments/assets/c63c61cd-cb76-465f-b0cb-f1ba5e8a9e3c" />
-<img width="1366" height="559" alt="cyfugi" src="https://github.com/user-attachments/assets/37c090e7-9e2b-4e41-b831-4fa0ef1fce0d" />
-
+<h3 align="center"><b>CAD Model Overview</b></h3>
+<p align="center">
+  <img width="1366" alt="CAD Side Perspective" src="https://github.com/user-attachments/assets/79038fe9-667d-4d73-b458-954ee69030db" />
+  <img width="1366" alt="CAD Front-Side Perspective" src="https://github.com/user-attachments/assets/3ff2fcdd-5998-4d4d-89cd-29c2dfe3bb96" />
+  <img width="1332" alt="CAD Front Perspective" src="https://github.com/user-attachments/assets/44b34efe-ddbe-4e03-9ad8-37d1d54cd98a" />
 </p>
 
+<h3 align="center"><b>High-Fidelity Rendered Visuals</b></h3>
+<p align="center">
+  <img width="1366" alt="Render 1" src="https://github.com/user-attachments/assets/2d3e70eb-05b6-482c-999b-a1dfd2cca9a0" />
+  <img width="1366" alt="Render 2" src="https://github.com/user-attachments/assets/05801154-7e74-43a8-a288-93ab383051e0" />
+  <img width="1366" alt="Render 3" src="https://github.com/user-attachments/assets/a454421b-2992-45c8-9742-f32c235d7944" />
+  <img width="1366" alt="Render 4" src="https://github.com/user-attachments/assets/90b29206-22b7-4296-b81f-d5549d2630e6" />
+</p>
+
+> **Design Note on Airframe Influence:** > The X-26 Greywolf airframe is a unique blending of generation-defining design aspects. It utilizes high-efficiency forward intakes inspired by the F-22 Raptor, twin vertical stabilizing surfaces and an exhaust layout optimized similarly to the F-35 Lightning II, and Airframes structurally derived from the F-16 Fighting Falcon. 
+
+---
+
+## Airframe Materials List
+
+For physical scratch-building replication, the structural framework utilizes a composite material approach to meet necessary power-to-weight and stress thresholds:
+
+1. **Depron Foam (or 3D-Printed LW-PLA):** Used for lightweight external aerodynamic skin panels and minor interior structural formers.
+2. **Carbon Fiber Spars & Rods:** Implemented across high-stress junctions, including main wing spars, tail pivots, and longitudinal fuselage reinforcement points.
+3. **Aircraft-Grade Plywood:** Used selectively for high-vibration structural hardpoints, specifically the primary EDF mounting bracket and landing gear load plates.
+
+---
+
+## Electronics & Propulsion System
+
+### Bill of Materials (BOM)
+
+The electronics bay is configured to handle high-current throughput safely without the need for custom PCB distribution boards. All high-power connections must be hard-wired or connected using high-amperage bullet terminals.
+
+| Component Name | Quantity | Purpose / System Role | Estimated Unit Price | Sourcing Link |
+| :--- | :---: | :--- | :---: | :--- |
+| **12S 80mm EDF Unit** | 1 | Primary Propulsion Unit | $86.87 | [AliExpress](https://www.aliexpress.com/item/1005005825766168.html) |
+| **Hobbywing Skywalker 100A V2 ESC** | 1 | Electronic Speed Controller / Electronic Pump Functional Equivalent | ~PKR 10,800 | [SmartHobby](https://www.smarthobby.pk/product-page/hobby-wing-skywalker-100a-v2-esc) |
+| **6S 5200mAh - 5900mAh LiPo Batteries** | 2 | Primary 12S DC Power Source (Split configuration) | ~PKR 19,000 | [Electrobes](https://electrobes.com/product/5200mah-22-2v-6s-40c-lipo-lithium-polymer-rechargeable-battery-pack-for-rc-drone/) |
+| **TowerPro SG-90 Servos (180°)** | 6-10 | Actuators for flight control surface manipulation | ~PKR 300 | [Electrobes](https://electrobes.com/product/towerpro-sg-90-servo-motor-180-degree-rotation/) |
+| **FlySky FS-iA10B Receiver** | 1 | 10-Channel Radio Control Signal Receiver Component | Excluded(not buying from hc money) | Core RC Gear |
+
+---
+
+## System Wiring Diagram
+
+The PT-1 utilizes a point-to-point wiring schematic layout optimized for minimal line resistance and spatial balance within the narrow fuselage ribbing. 
+
+<p align="center">
+  <img width="1366" alt="Point to Point Wiring Schematic" src="https://github.com/user-attachments/assets/5e5e0da4-2eb1-411f-bb1d-6472232fde2c" />
+  <img width="1366" alt="Internal Fuselage Electronics Layout" src="https://github.com/user-attachments/assets/3f0233a8-e0d2-44fd-b3ad-49cb08857d07" />
+</p>
+
+### Wiring Architecture Summary:
+1. **High-Voltage Power Loop:** Two independent 6S LiPo battery packs are linked together in **series** via a heavy-duty **QS-8 Anti-Spark Series Harness** to deliver a unified 12S nominal voltage supply (44.4V nominal / 50.4V peak) directly to the DC inputs of the 100A ESC.
+2. **Propulsion Drive Loop:** Three heavy-gauge phase wires route directly from the ESC output to the 80mm EDF brushless motor. (Note: Exhaust rotation direction can be quickly reversed by swapping any two of the three ESC-to-motor wire links).
+3. **Low-Voltage Signal Loop:** Low-voltage power to the FlySky FS-iA10B receiver is stepping down cleanly from the main pack via the ESC's integrated Battery Eliminator Circuit (BEC) wire line. 
+4. **Control Surface Actuation:** The 6 primary flight servos are synchronized efficiently across the receiver channels using heavy-duty Y-harness extensions to ensure uniform dual-aileron, dual-flap, and dual-stabilator tracking.
 
 
-<br><br>
-## Materials List
-The list of materials used is as follows:-
-**If u want to build it hands then:-**<br>
-- **DEPRON** for surface covering and making inner supports maybe.
-- **CARBONFIBRE** for making spars,ribs,and frames which are going to handle some aerodynamic stress.
-- **PLYWOOD** supplementary material in case of not usin the carbon fibre. maybe i wont use this.<br>
+---
 
-<br><br>
-## Electronics List🔌
-The list of electronics used are:-
-- **Sg-90 Servo** 180 degree rotating servo, for gaining control over control surfaces.
-- **80mm Edf**  The power unit thats gonna powerup the whole jet.
-- **22.2v 6000mah Lipo**for running these heavy electronics.
-***NOTE:-***other electronics and their firmwares are included in their respective repos
-<br><br>
-**📣AN IMPORTANT NOTICE**<br>
-                         Many of the viewers may resemble it with **F-35**or**F-22**, but its not, Its a blend of **F-35,F-22&F-16**
-                         u may find some parts similar, but lemme tell u if u look at the intakes they are similar to F-22's ,
-                         If u look at the vertical tails and engine u'll find them similar to F-35,And If someone may look at
-                         The airframes they are enhanced form of F-16's Air frames.
-                         Therefore please do not mix it with Any other Aircraft,I shall be thankful to u.
-                         
+## Assembly Guide
 
-<h2 align="center">BOM(bill of materials to be bought)</h2>
-<table>
-  <tr>
-    <th><b>Part name</b></th>
-    <th><b>Price</b></th>
-    <th><b>Reason</b></th>
-    <th>link</th>
-  </tr>
-  <tr>
-    <td><b>12-s 80mm EDF</td>
-      <td>86.87$</td>
-      <td>Main propulsion</td>
-      <td><a href="https://www.aliexpress.com/item/1005005825766168.html?spm=a2g0o.cart.0.0.25b838dakmcktl&mp=1&pdp_npi=6%40dis%21USD%21USD%20112.82%21USD%2086.87%21%21USD%2086.00%21%21%21%40210156fc17748877096532184e0ac4%2112000034487363196%21ct%21PK%216195667158%21%211%210%21">Ali express</a></td>
-  </tr>
-      <tr>
-        <td><b>Sg-90 Servo(10)</b></td>
-        <td>PKR 300(10)</td>
-        <td>Mini actuator for adding functionality</td>
-        <td><a href="https://electrobes.com/product/towerpro-sg-90-servo-motor-180-degree-rotation/">Electrobes(local store)</a></td>
-      </tr>
-      <tr>
-        <td><b>22.2v 5200 mah lipo(2)</b></td>
-        <td>PKR 19000(2)</td>
-        <td>Main power source</td>
-        <td><a href="https://electrobes.com/product/5200mah-22-2v-6s-40c-lipo-lithium-polymer-rechargeable-battery-pack-for-rc-drone/">Electrobes(loacal strore)</a></td>
-      </tr>
-      <tr>
-        <td><b>100A esc</b></td>#
-        <td>PKR 10800</td>
-        <td>For doing the work of a pump in a real plane</td>
-        <td><a href="https://www.smarthobby.pk/product-page/hobby-wing-skywalker-100a-v2-esc">Smarthobby.pk(local shop)</a></td>
-      </tr>
-      <tr>
-        <td>------------</td>
-        <td><b>Total</b></td>
-        <td>146.33$(to be bought from aliexpress)</td>
-        <td>------------</td>
-      </tr>
-      
-</table>
+The step-by-step physical assembly tracking sequence for the PT-1 fuselage is structured as follows:
 
-  
-## Wrining Diagram
-              NO PCBS REQUIRED HERE, ALL WIRING  HAS TO BE HAND DONE! 
-              And plz dont mind at the diagram, i made it on a touchpad
-<img width="1366" height="538" alt="elec 2" src="https://github.com/user-attachments/assets/5e5e0da4-2eb1-411f-bb1d-6472232fde2c" />
-<img width="1366" height="538" alt="elec" src="https://github.com/user-attachments/assets/3f0233a8-e0d2-44fd-b3ad-49cb08857d07" />
+1. **Propulsion Core Installation:** Secure the internal S-duct intake tube structure directly to the primary structural bulkheads.
+2. **Powerplant Integration:** Mount the 80mm EDF housing unit directly onto the reinforced plywood mounting brackets located at the center-rear alignment junction of the airframe ducting.
+3. **Internal Structure Alignment:** Fix the primary interlocking longitudinal fuselage ribs and vertical bulkheads along the exterior boundary lines of the central air duct.
+4. **Avionics & Actuator Routing:** Secure the servos into their respective precut frame brackets, thread the signal leads along the guide channels to the central receiver bay, and test overall surface throws before finalizing external panels.
+5. **Skin Application:** Wrap and bond the external pre-contoured Depron foam panels or lightweight LW-PLA skins seamlessly over the completed structural rib cage.
+If viusals are required u can look upto em under this short guide;
 
-## Assembly
-The assembling process is as follows:-
+---
 
-First of all the sections/ airframe ribs, will be planted on to the Air duct,
+## Credits
 
- 
-## Credits💼📜
-First of all I'm gonna Credit my **Father**, he taught me almost everything about the aircrafts.
-He's a professional in his feild ,and He is the who encouraged me to build this project..
+* **My Father:** A seasoned professional in his aviation field who taught me the foundational mechanics of aircraft design, and inspired me to build this dream.
+* **My Brother:** The catalyst who challenged me to test my limits, stepped up my design thinking, and introduced me to the open-source hardware community.
+* **Hack Club Blueprint & Stasis Teams:** For establishing a development pipeline that empowers teenagers to scale up their hardware engineering skills and bring complex concepts to life.
 
-Secondly My **Big Bro**, he was the atual reason i built it ,cuz he challenged me to make my own one
-And hes the one who told me about **Blueprint**.So if he wouldnt have challenged me ,my mind  wouldnt have accelerated those ideas that 
-led me to design this beast.
+---
 
-Thirdly **Hackclub Blueprint**
-I wanna thank the team for starting this type of project, that enables many teenagers to enhance thier skills
-Also because of **Blueprint** the project that was only a cad file ,is going to come to life.
+## License
 
-## License🔐
-
-CC-BY-4.0
-
-
-
-
-
-
-
-
-
+This project is open-source and tracking under the terms of the 
