@@ -33,12 +33,14 @@ The **X-26 GREYWOLF PT-1** is a high-speed, scratch-built experimental scale RC 
 * **Fuselage Length:** 1.3 - 1.5 meters
 * **Fuselage Height:** 30 cm
 * **Wingspan:** ~1.0 meter
-* **Wing Area:** ~1.0 m²
+* **Wing Area:** ~0.1 m²
 * **Total Control Surfaces:** 6 channels (2x Flaps, 2x Ailerons, 2x Stabilators)
 * **Landing Gear System(in Advanced version):** 3x Retractable landing gear assemblies featuring fully operational actuated bay doors.
 * **Special Aerodynamic Feature:** Features an integrated custom-engineered S-Duct intake system designed to stabilize air intake turbulence under high static pressures.
 * **Performance Profile:** Estimated empty airframe weight ranges from 2 - ~3 kg. Powered by a high-output 12S electric ducted fan producing between 4.0 - 5.0 kg of static thrust, the airframe targets a top speed vector of 100 - 110 mph.
-
+* **Min-Takeoff Speed:**21.3m/s-27.6m/s
+* **Max-Takeoff Speed:**24.6m/s-31.9m/s
+* **Control Surface Mixing:** Symmetrical Flaperon deployment engaging 41.5% of total wing area 372.68cm^2, Max Takeoff Lift Coefficient to approx 0.165
 *Note: The structural components, nose cone sections, and access hatches are modeled as independent components within the source assembly to allow for separate modular fabrication and easy battery bay access.*
 
 ---
