@@ -30,8 +30,9 @@
 
 The **X-26 GREYWOLF PT-1** is a high-speed, scratch-built experimental scale RC jet aircraft. It is designed around an advanced integrated propulsion duct system and multi-axis control surface layout to study RC level transonic airflow behavior and high-speed stability profiles at low altitudes.
 
-* **Fuselage Length:** 1.3 - 1.5 meters
-* **Fuselage Height:** 11cm (0.1m)
+* **Total Length of Aircraft:** 1.3 - 1.5 meters
+* **Total height of Aircraft:** 0.3m (~30cm)
+* **Fuselage Height:** 0.1m (~11cm)
 * **Wingspan:** ~1.0 meter
 * **Wing Area:** ~0.1 m²
 * **Total Control Surfaces:** 6 channels (2x Flaps, 2x Ailerons, 2x Stabilators)
