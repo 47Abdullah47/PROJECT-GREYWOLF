@@ -12,7 +12,7 @@ Provided for confirmation of the project evolution
 
 ### 🛡️ 2. Welded Section Assembly (Thickened Panels)
 Is the more optimized and better assembly containing Editor dile
-* 📥 [Download Thickened Section File (.f3d)](https://drive.google.com/file/d/1ftKlMEbe0NmUOVbTCLuQEAbMYpeKB2Uw/view?usp=sharing)
+* 📥 [Download Thickened Section File (.f3d)](https://drive.google.com/file/d/1OF6znWwktBJkACVJtbnIMnX9c7ENrjwd/view?usp=sharing)
 
 ---
 
