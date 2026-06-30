@@ -8,7 +8,7 @@ To make modding, simulating, and building as easy as possible, the project is sp
 ### 📐 1. Master Manufacturing Model (Zero Thickness)
 This is the foundational surface model. It contains the raw, unthickened aerodynamic skins, S-Duct pathways, and master sketches.
 Provided for confirmation of the project evolution
-* 📥 [Download Zero Thickness File (.f3d)](YOUR_GOOGLE_DRIVE_LINK_HERE)
+* 📥 [Download Zero Thickness File (.f3d)](Y)
 
 ### 🛡️ 2. Welded Section Assembly (Thickened Panels)
 Is the more optimized and better assembly containing Editor dile
