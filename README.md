@@ -23,7 +23,7 @@
 > **CAD Platform:** Autodesk Fusion 360  
 > **Development Pipeline:** [Hack Club Stasis Dashboard](https://stasis.hackclub.com/dashboard/projects/cmnfqlx3300nv01qimu2rgsk3)  
 > **Design Time Investment:** 50+ Hours of High-Fidelity Surface Modeling  
-> **Source CAD File:** 💾 [Download Massive Fusion 360 (.f3d) Assembly via Google Drive](https://github.com/47Abdullah47/over-hauling-PT-1-s-readme/blob/main/SourceFiles.md)
+> **Source CAD File:** 💾 [Download Massive Fusion 360 (.f3d) Assembly via Google Drive](https://github.com/47Abdullah47/X-26-GREYWOLF-PT-1/blob/Main-Project-PT-1/SOURCE%20FILE.md)
 
 ---
 
