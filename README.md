@@ -167,7 +167,44 @@ The fourth skin panel of the Engine nozzle is mounted onto the corresponding edg
 <img width="1366" height="538" alt="17" src="https://github.com/user-attachments/assets/7f59e64e-742c-46dc-961c-41e0e707e390" />
 the last panel is the exhuast panel of the engine bay section, this can be replaced by a servo operated variable engine nozzle too, which is not the part of current development.
 <img width="1366" height="538" alt="18" src="https://github.com/user-attachments/assets/bfd1ba1a-0dd0-4d33-bdf4-09afce0fcbac" />
-<h3><b>Installing the Nose ribs</b></h3>
+<h3><b>Installing the Nose ribs, nose panels, And completing the Fuselage</b></h3>
+The Nose is installed by folowing a complex assembling procedure, the Battery block itself serves as a support, The two nose ribs are slided onto the carbon fibre rods, In this way the base of the nose is installed onto the Fuselage.
+<img width="1366" height="538" alt="19" src="https://github.com/user-attachments/assets/7e56eac5-f999-4ce2-82db-d0a23321b380" />
+The lower nose skin panels are installed onto the assembled Structure of the Nose
+<img width="1366" height="538" alt="20" src="https://github.com/user-attachments/assets/b2ec6514-5b85-429a-b886-3be198fd8b95" />
+After mounting the lower panels the side Skin panels are mounted onto the so far assembled nose strucutre.
+<img width="1366" height="538" alt="21" src="https://github.com/user-attachments/assets/523d6682-1b4b-490c-b6df-2b4e80316580" />
+After that The next Nose Rib is installed by three support brigdes,
+<img width="1366" height="538" alt="22" src="https://github.com/user-attachments/assets/454351b3-7512-4cad-9998-8d04b7e84a20" />
+After adding the next rib, the corresponding side Skin panels are mounted.
+<img width="1366" height="538" alt="23" src="https://github.com/user-attachments/assets/2bb6f701-5ef8-4b14-907f-deb8fedfe95b" />
+After mounting Side skin panels, the corresponding upper Skin panel is mounted 
+<img width="1366" height="538" alt="24" src="https://github.com/user-attachments/assets/1f089d55-bbdc-406c-9420-d3460de044a3" />
+after that, another Rib is added to the structure, and corresponding remaining side skin panels are mounted on, 
+<img width="1366" height="538" alt="25" src="https://github.com/user-attachments/assets/7e435fc4-6c61-4a63-b00c-a7110ddb68fc" />
+After that the last remaining upper skin panel is mounted.
+<img width="1366" height="538" alt="26" src="https://github.com/user-attachments/assets/fa1d4f05-e814-4507-93bc-1e9d97bc93b2" />
+THE DIVERS:-
+The divergers are mounted on the tip of the lower intake Skin panel, Its purpose is to separate the low speed skin air from the high speed air,
+<img width="1366" height="538" alt="27" src="https://github.com/user-attachments/assets/ecb153b1-d141-49aa-90e1-0287ef52b6e8" />
+After All of this process the Construction of the Fuselage is done.
+<img width="1366" height="538" alt="28" src="https://github.com/user-attachments/assets/6d77f3e3-ec05-424b-862f-59c6b899b1b6" />
+<h3><b>Assembling the V-tails</b></h3>
+The Ribs of the tails are mounted onto the one side of the Skins of the tail, 
+<img width="1366" height="538" alt="29" src="https://github.com/user-attachments/assets/d37fb54a-03ca-4390-a3cb-6ceb2670ac82" />
+After joining the Ribs with one skin, The other skin is mounted onto the ribs and the other skin,
+<img width="1366" height="538" alt="30" src="https://github.com/user-attachments/assets/079b0012-5c5a-4f3e-98b7-d9b1696167c4" />
+Just like this the second tail is constructed, After joining skins and the ribs of the tail, the lower base root panel is mounted, sealing the whole structure,
+<img width="1366" height="538" alt="31" src="https://github.com/user-attachments/assets/072e8ab3-05ba-4d66-8c9d-bffb2efb1bcc" />
+After that carbon fibre support rods are slided into pre-built holes in the root panel,
+<img width="1366" height="538" alt="32" src="https://github.com/user-attachments/assets/a9cfc476-e97e-4902-8a7e-686b098ddea0" />
+This support rib is situated perpendicular to the actuator support of the STABS, its purpose is to lockin the Carbon fibre support Rods of the V-tails.
+<img width="1366" height="538" alt="33" src="https://github.com/user-attachments/assets/b69ce9b7-f5e2-4750-bcfb-1e400b1055ac" />
+The Tails are slided into the Fuselage, Like This, (this is the inner view removing the outer skin panel from the vie)
+<img width="1366" height="538" alt="34" src="https://github.com/user-attachments/assets/48dafd77-78fb-48f7-b434-74358d444251" />
+And with that The V-tails are fused into the Fuselage.
+<img width="1366" height="538" alt="35" src="https://github.com/user-attachments/assets/720e0554-709f-4555-b594-793835ee5c15" />
+<h3><b>Assembling the Wings</b></h3>
 
 
 ---
