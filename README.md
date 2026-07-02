@@ -184,7 +184,7 @@ after that, another Rib is added to the structure, and corresponding remaining s
 <img width="1366" height="538" alt="25" src="https://github.com/user-attachments/assets/7e435fc4-6c61-4a63-b00c-a7110ddb68fc" />
 After that the last remaining upper skin panel is mounted.
 <img width="1366" height="538" alt="26" src="https://github.com/user-attachments/assets/fa1d4f05-e814-4507-93bc-1e9d97bc93b2" />
-THE DIVERS:-
+THE DIVERGERS:-
 The divergers are mounted on the tip of the lower intake Skin panel, Its purpose is to separate the low speed skin air from the high speed air,
 <img width="1366" height="538" alt="27" src="https://github.com/user-attachments/assets/ecb153b1-d141-49aa-90e1-0287ef52b6e8" />
 After All of this process the Construction of the Fuselage is done.
@@ -205,6 +205,31 @@ The Tails are slided into the Fuselage, Like This, (this is the inner view remov
 And with that The V-tails are fused into the Fuselage.
 <img width="1366" height="538" alt="35" src="https://github.com/user-attachments/assets/720e0554-709f-4555-b594-793835ee5c15" />
 <h3><b>Assembling the Wings</b></h3>
+<img width="1366" height="538" alt="36" src="https://github.com/user-attachments/assets/59dfd546-9cee-4510-ba1c-eebf2c2f94df" />
+<img width="1366" height="538" alt="37" src="https://github.com/user-attachments/assets/a4a8a5ef-414d-44af-9db5-affc3413087f" />
+<img width="1366" height="538" alt="38" src="https://github.com/user-attachments/assets/363f8d9c-ffb2-4469-a5d2-6f847c873db9" />
+<img width="1366" height="538" alt="39" src="https://github.com/user-attachments/assets/9aa8064d-d71d-4d98-971d-f2dabbd7c36c" />
+<img width="1366" height="538" alt="40" src="https://github.com/user-attachments/assets/c86da0d9-57fd-409d-b738-5cfbad9dd27f" />
+<img width="1366" height="538" alt="41" src="https://github.com/user-attachments/assets/5cac93d6-a959-403e-a891-4389b29041fd" />
+<img width="1366" height="538" alt="42" src="https://github.com/user-attachments/assets/acaf5d64-9801-4471-bcb2-cb461eb02269" />
+<img width="1366" height="538" alt="43" src="https://github.com/user-attachments/assets/4f81f428-d731-4538-b3e4-21708eab2146" />
+<img width="1366" height="538" alt="44" src="https://github.com/user-attachments/assets/1464d4ca-313f-4bce-8ab6-a5f8f7711c8c" />
+<img width="1366" height="538" alt="45" src="https://github.com/user-attachments/assets/f25bf9c6-c438-430c-9db9-7f0ca2e6d81f" />
+<img width="1366" height="538" alt="46" src="https://github.com/user-attachments/assets/8c79dff0-5b6f-4311-8389-1c54730089ed" />
+<img width="1366" height="538" alt="47" src="https://github.com/user-attachments/assets/75ae0f1f-d8b5-45ce-b8ad-f602ce878d67" />
+<img width="1366" height="538" alt="48" src="https://github.com/user-attachments/assets/4b74a3ac-32fa-450b-882f-78eb372b3c5a" />
+<img width="1366" height="538" alt="49" src="https://github.com/user-attachments/assets/db458059-57dc-4933-b148-711c1462742e" />
+<img width="1366" height="538" alt="50" src="https://github.com/user-attachments/assets/47779cfa-6499-4c5a-b14a-92249d6a9792" />
+<img width="1366" height="538" alt="51" src="https://github.com/user-attachments/assets/1d3fa0d9-52c7-4c26-a47b-9a8dafe4b6cd" />
+<img width="1366" height="538" alt="52" src="https://github.com/user-attachments/assets/9c94f0e6-c014-4424-bc87-e822c60ab540" />
+<img width="1366" height="538" alt="53" src="https://github.com/user-attachments/assets/7d6da8ea-4f58-4924-a2f3-2dcdd666cc03" />
+<img width="1366" height="538" alt="54" src="https://github.com/user-attachments/assets/5b3bc090-c49d-4128-9781-f3aeb838bb01" />
+<img width="1366" height="538" alt="55" src="https://github.com/user-attachments/assets/eff82d22-f6c3-44cd-8a07-a69ddbf07082" />
+<img width="1366" height="538" alt="56" src="https://github.com/user-attachments/assets/9f3aedcd-6745-49d4-998a-770b40e941c3" />
+<img width="1366" height="538" alt="57" src="https://github.com/user-attachments/assets/4337ca2e-d7de-4df8-88cf-fe6ba2eccf42" />
+<img width="1366" height="538" alt="58" src="https://github.com/user-attachments/assets/56fe2667-f0f1-4000-a86b-bb75fc63a81c" />
+<img width="1366" height="538" alt="59" src="https://github.com/user-attachments/assets/241ba5a1-f5dc-46c7-a569-fd42f4c9a28f" />
+<img width="1366" height="538" alt="60" src="https://github.com/user-attachments/assets/95dceee6-6e19-4479-937a-b394fb06a36b" />
 
 
 ---
