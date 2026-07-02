@@ -56,6 +56,13 @@ The **X-26 GREYWOLF PT-1** is a high-speed, scratch-built experimental scale RC 
   <img width="1366" alt="CAD Side Perspective" src="https://github.com/user-attachments/assets/79038fe9-667d-4d73-b458-954ee69030db" />
   <img width="1366" alt="CAD Front-Side Perspective" src="https://github.com/user-attachments/assets/3ff2fcdd-5998-4d4d-89cd-29c2dfe3bb96" />
   <img width="1332" alt="CAD Front Perspective" src="https://github.com/user-attachments/assets/44b34efe-ddbe-4e03-9ad8-37d1d54cd98a" />
+  
+  
+  <a href="https://youtu.be/b9qI-MGt7ME"><b>A demonstration of the actuation of Control Surfaces</b></a>
+
+
+
+
 </p>
 
 <h3 align="center"><b>High-Fidelity Rendered Visuals</b></h3>
