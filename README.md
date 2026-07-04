@@ -125,42 +125,42 @@ The proper assembling procedure of the aircraft is as follows:-
 <p>The airduct of the plane has two major and very important roles in the aircraft, it serves as <b>THE SPINE</b> of the plane and the **The duct that** asissts the airflow.
 It being <b>The Spine</b>  of the airplane, it will be the one hosting the airframe ribs.
 </p>
- <img width="1366" height="538" alt="1" src="https://github.com/user-attachments/assets/9cad2ad2-679b-46e5-bb7c-b2a559e0663c" />
+ <img width="1366" height="538" alt="1" src="https://github.com/user-attachments/assets/9cad2ad2-679b-46e5-bb7c-b2a559e0663c"/>
 <h3><b>Air-Frame Ribs Placement</b></h3>
 <p>  The cuted out airframed ribs are slided onto the air duct, which is the spine of the aircraft. 
 </p>
- <img width="1366" height="538" alt="2" src="https://github.com/user-attachments/assets/fc8065d6-6a08-40e1-b84a-f4fe8436b946" />
+ <img width="1366" height="538" alt="2" src="https://github.com/user-attachments/assets/fc8065d6-6a08-40e1-b84a-f4fe8436b946"/>
  <h3><b> First Skin Placement</b></h3>
  After sliding on the Airframe ribs onto the Airduct..The lower fuselage skin is mounted onto the airframe ribs.
-<img width="1366" height="538" alt="3" src="https://github.com/user-attachments/assets/bd53c298-0a0e-4170-9009-67793faf5ca3" />
+<img width="1366" height="538" alt="3" src="https://github.com/user-attachments/assets/bd53c298-0a0e-4170-9009-67793faf5ca3"/>
 <h3><b>Mounting Side panels</b></h3>
 After mounting lower skin panel of the fuselage..the side skin panels are mounted onto the Airframe.
-<img width="1366" height="538" alt="4" src="https://github.com/user-attachments/assets/56bde90f-c560-4918-9ed9-06ed85ac06bc" />
+<img width="1366" height="538" alt="4" src="https://github.com/user-attachments/assets/56bde90f-c560-4918-9ed9-06ed85ac06bc"/>
 <h3><b>Adding support</b></h3>
 3mm Carbon fibre rods are slided into the premade holes in airframes..the goal is to provide the airframe with a good tensile and torsion strength.
 Also one of the rear support ribs are slided onto the carbin fibre rod for attatching to the main spine and be a part of the barrier against crushing G-force..Also the remaining side panels of the fuselage are mounted onto the rear support ribs.
-<img width="1366" height="538" alt="5" src="https://github.com/user-attachments/assets/28dee7aa-5c37-4001-b8e6-f1f8ec763522" />
+<img width="1366" height="538" alt="5" src="https://github.com/user-attachments/assets/28dee7aa-5c37-4001-b8e6-f1f8ec763522"/>
 <h3><b>Mounting Inner Skin Panels</b></h3>
 Rear Inner skin panels are also mounted onto the rear support ribs.
-<img width="1366" height="538" alt="6" src="https://github.com/user-attachments/assets/d9b6258e-5694-4c6d-8049-25907753fb2f" />
+<img width="1366" height="538" alt="6" src="https://github.com/user-attachments/assets/d9b6258e-5694-4c6d-8049-25907753fb2f"/>
 <h3><b>Construction of the Stabs(stabilators)</b></h3>
 The stab's construction is simple yet requires carefullness regarding the building process...The root aerofoil is mounted on the outer edges of the stab.
-<img width="1366" height="538" alt="7" src="https://github.com/user-attachments/assets/3500fa88-abc2-4abe-8af1-41368810e282" />
+<img width="1366" height="538" alt="7" src="https://github.com/user-attachments/assets/3500fa88-abc2-4abe-8af1-41368810e282"/>
 After mounting the root aerofoil on the root edge of lower skin panel of the stab...
 the upper skin panel is mounted onto the root aerofoil and the corresponding outer edges of the lower skin panel....
-<img width="1366" height="538" alt="8" src="https://github.com/user-attachments/assets/91b89b96-a29b-4f61-95d0-0a94c7edb1a5" />
+<img width="1366" height="538" alt="8" src="https://github.com/user-attachments/assets/91b89b96-a29b-4f61-95d0-0a94c7edb1a5"/>
 After sucessfully mounting skin panels and the root aerfoil to eachother...the pivot rod is slided into the premade hole in the root aero foil.... 
 The stabilators are done being built.
-<img width="1366" height="538" alt="9" src="https://github.com/user-attachments/assets/d7d34760-1f13-4736-8242-03564a8eb67b" />
+<img width="1366" height="538" alt="9" src="https://github.com/user-attachments/assets/d7d34760-1f13-4736-8242-03564a8eb67b"/>
 <h3><b>Mounting The Remaining Skin Panels</b></h3>
 The remaing rear lower skin panels of the fuselage are also mounted onto the rear support ribs of the Fuselage..with the side skin panels supporting it.
-<img width="1366" height="538" alt="10" src="https://github.com/user-attachments/assets/918a7c45-ed82-418b-a4dd-8bda1591704a" />
+<img width="1366" height="538" alt="10" src="https://github.com/user-attachments/assets/918a7c45-ed82-418b-a4dd-8bda1591704a"/>
 After completing mounting the rear side of lower skin panels..The rear skin panels of the upper skin are also mounted onto the rear support ribs....
-<img width="1366" height="538" alt="11" src="https://github.com/user-attachments/assets/cea30157-e479-403e-ba44-0f0dc5c32214" />
+<img width="1366" height="538" alt="11" src="https://github.com/user-attachments/assets/cea30157-e479-403e-ba44-0f0dc5c32214"/>
 After mounting first rear skin panel of the upper skin...the second pair of skin panels are mounted onto the Airframe ribs...these two skin panels are directly sitting above the main propulsion unit of the UAV..
-<img width="1366" height="538" alt="12" src="https://github.com/user-attachments/assets/74b71ae1-3379-441f-b14a-14ab8280a446" />
+<img width="1366" height="538" alt="12" src="https://github.com/user-attachments/assets/74b71ae1-3379-441f-b14a-14ab8280a446"/>
 The side long skin panels are also mounted onto the Airframe ribs..these skin panels cover up the most of the Fuselage's upper skin....
-<img width="1366" height="538" alt="13" src="https://github.com/user-attachments/assets/4741cf53-e4c4-4c5d-9e75-70095ca52627" />
+<img width="1366" height="538" alt="13" src="https://github.com/user-attachments/assets/4741cf53-e4c4-4c5d-9e75-70095ca52627"/>
 The front upper skin panels of the Fuselage are mounted onto the front Airframe Ribs of the Airframe with the remaining upper side panels of the Airframe....the Cavity behind these panels is the space of the removeable panels that allow accessing the inner components of the Aircraft without needing to rip-apart the skin of the Aircraft.
 <img width="1366" height="538" alt="14" src="https://github.com/user-attachments/assets/c4d5416e-9feb-473b-bec6-7d8db1f15961" />
 <img width="1366" height="538" alt="15" src="https://github.com/user-attachments/assets/b63e0051-5842-4d73-9be4-7c76092d6c46" />
