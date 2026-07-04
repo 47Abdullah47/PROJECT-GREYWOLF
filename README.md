@@ -272,53 +272,64 @@ The two 5mm Carbon fibre rods are then slided into the holes and then locked usi
 
 The upper skin of 2mm depron is mounted onto the complex wing structure.
 
+<img width="1366" height="538" alt="45" src="https://github.com/user-attachments/assets/57ca191b-7f6d-4fcf-8890-385178751889" />
 
 
 
 After mounting the upper depron skin, the lower depron skin is mounted to complete tge aerodynamic shape of the wing, also for servo fittings, there are pre cutout parts on the lower depron skin
 
+<img width="1366" height="538" alt="46" src="https://github.com/user-attachments/assets/b8925d49-2a4f-4347-a2f5-84e59949f6ca" />
 
 
 And after that the sides of the wing, the "WING TIPS" are mounted on,
-<img width="1366" height="538" alt="47" src="https://github.com/user-attachments/assets/75ae0f1f-d8b5-45ce-b8ad-f602ce878d67" />
+<img width="1366" height="538" alt="47" src="https://github.com/user-attachments/assets/7d4e74ad-0ea3-4c72-9a0d-66f8dd5ba7b4" />
+
 After mounting the wing tips, the
 control surfaces "Flaps and Ailerons" are mounted onto the hinges that are fitted into the hinge support ribs, And the removeable wings are Completed
-<img width="1366" height="538" alt="48" src="https://github.com/user-attachments/assets/4b74a3ac-32fa-450b-882f-78eb372b3c5a" />
+<img width="1366" height="538" alt="48" src="https://github.com/user-attachments/assets/2beb3457-dffb-460b-b49d-f2cd7a7bcf28" />
+
 Now the 6mm wings' support bulkhead is installed into the airframe ribs and with the support rib similar to the root rib of the wing, enabling those two 5mm carbon fibre rods to be slided into the airframe,
-<img width="1366" height="538" alt="49" src="https://github.com/user-attachments/assets/db458059-57dc-4933-b148-711c1462742e" />
+<img width="1366" height="538" alt="49" src="https://github.com/user-attachments/assets/b5478138-4c9f-4ee0-80e6-0e35270248b6" />
+
 This is how the Wing is installed, the carbon fibre rods are tightened up with the help of collars,
-<img width="1366" height="538" alt="50" src="https://github.com/user-attachments/assets/47779cfa-6499-4c5a-b14a-92249d6a9792" />
+<img width="1366" height="538" alt="50" src="https://github.com/user-attachments/assets/ce12f9fc-2e3d-4521-ae22-2388b2e40adb" />
+
 <h3><b>The Actuation Mechansim of Flaps and Ailerons</b></h3>
 This is where the servos for Flaps and Ailerons go into the eing, and the actuation mechanism is shown perfectly below👇 
-<img width="1366" height="538" alt="51" src="https://github.com/user-attachments/assets/1d3fa0d9-52c7-4c26-a47b-9a8dafe4b6cd" />
+<img width="1366" height="538" alt="51" src="https://github.com/user-attachments/assets/98b91409-455d-4b18-b6d0-bf2cd16d36bc" />
+
 <h3><b>The Actuation Mechansim of the Stabilators</b></h3>
 This is how the pushrods for the actuation of Stabilators reside,
 a collar is installed onto the 3mm carbon fibre rod, that is connected to the stabilator, and the pushrod is used to rotate the collar which in turn, turns the rod, actuationg the stabilator
-<img width="1366" height="538" alt="52" src="https://github.com/user-attachments/assets/9c94f0e6-c014-4424-bc87-e822c60ab540" />
+<img width="1366" height="538" alt="52" src="https://github.com/user-attachments/assets/d41d28ff-b592-4cd0-9e0b-1e3a95800ba2" />
 This is where the servo resides into the rear support ribs.
-<img width="1366" height="538" alt="55" src="https://github.com/user-attachments/assets/eff82d22-f6c3-44cd-8a07-a69ddbf07082" />
+<img width="1366" height="538" alt="55" src="https://github.com/user-attachments/assets/81a7c030-3517-453b-b0cb-1c25bda34a93" />
 <h3><b>The Residence of The ESC</b></h3>
 The esc is placed in the lower storage bay in the Airframe, that is near the lower skin panel and below the peak before dice of the Airduct.
-<img width="1366" height="538" alt="54" src="https://github.com/user-attachments/assets/5b3bc090-c49d-4128-9781-f3aeb838bb01" />
+<img width="1366" height="538" alt="54" src="https://github.com/user-attachments/assets/959ae5e4-45a3-455f-a380-c901f2279b4d" />
+
 <h3><b>Placement of the EDF</b></h3>
 The EDF is placed onto the mounting brackets installed between the Airframe ribs, And is directly placed into the Airduct with the mouth directky attached to the exit of the Airduct to prevent any Airfeed Loss.
 (The Air duct is hidden for a bteer view on the placement of the EDF)
-<img width="1366" height="538" alt="53" src="https://github.com/user-attachments/assets/7d6da8ea-4f58-4924-a2f3-2dcdd666cc03" />
+<img width="1366" height="538" alt="53" src="https://github.com/user-attachments/assets/0173e6d3-7681-4f92-8d59-a141a6a4f316" />
+
 
 <H3><B>Placement of the Reciever</B></H3>
 The reciever/flight controller is placed in the upper storage bay that is direclty below the mid upper skin panel, The reason is to prevent any electrical noise from interfering with the reciver/FC, and for extending the antennas into carbon fibre free sections to prevent signal screening.
-<img width="1366" height="538" alt="56" src="https://github.com/user-attachments/assets/9f3aedcd-6745-49d4-998a-770b40e941c3" />
+<img width="1366" height="538" alt="56" src="https://github.com/user-attachments/assets/b5b918e6-37d8-4a0a-8940-e43088757142" />
+
 <h3>Placement of the batteries </h3>
 The two 6s lipo packs are slided into the battery block that is also serving as the lower spine of the nose section, The block has cutouts on the upper sides to allow the wires to flow into the rear section of the UAV, and tye charging wires to be accessed easily.
-<img width="1366" height="538" alt="57" src="https://github.com/user-attachments/assets/4337ca2e-d7de-4df8-88cf-fe6ba2eccf42" />
-<img width="1366" height="538" alt="58" src="https://github.com/user-attachments/assets/56fe2667-f0f1-4000-a86b-bb75fc63a81c" />
+<img width="1366" height="538" alt="57" src="https://github.com/user-attachments/assets/d5618cff-4e22-4fde-9e49-369fe934a089" />
 
+
+<img width="1366" height="538" alt="58" src="https://github.com/user-attachments/assets/2d185684-d7b6-4468-8cd2-7209deaf234f" />
 
 
 <h4><b>THE END</b></h4>
 And the Assembling process comes to an end. The product should,.must look like this
-<img width="1366" height="538" alt="59" src="https://github.com/user-attachments/assets/241ba5a1-f5dc-46c7-a569-fd42f4c9a28f" />
-<img width="1366" height="538" alt="60" src="https://github.com/user-attachments/assets/95dceee6-6e19-4479-937a-b394fb06a36b" />
+<img width="1366" height="538" alt="59" src="https://github.com/user-attachments/assets/0cd0cf0f-8630-4e29-b889-1098545ee8b5" />
+<img width="1366" height="538" alt="60" src="https://github.com/user-attachments/assets/c62dc33f-851e-4718-b7c7-94805911f581" />
 
 
 ---
