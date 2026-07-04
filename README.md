@@ -125,113 +125,160 @@ The proper assembling procedure of the aircraft is as follows:-
 <p>The airduct of the plane has two major and very important roles in the aircraft, it serves as <b>THE SPINE</b> of the plane and the **The duct that** asissts the airflow.
 It being <b>The Spine</b>  of the airplane, it will be the one hosting the airframe ribs.
 </p>
- <img width="1366" height="538" alt="1" src="https://github.com/user-attachments/assets/9cad2ad2-679b-46e5-bb7c-b2a559e0663c"/>
+ <img width="1366" height="538" alt="1" src="https://github.com/user-attachments/assets/022b0e39-8efb-4d76-890f-2335ba1b0bef" />
+
 <h3><b>Air-Frame Ribs Placement</b></h3>
 <p>  The cuted out airframed ribs are slided onto the air duct, which is the spine of the aircraft. 
 </p>
- <img width="1366" height="538" alt="2" src="https://github.com/user-attachments/assets/fc8065d6-6a08-40e1-b84a-f4fe8436b946"/>
+<img width="1366" height="538" alt="2" src="https://github.com/user-attachments/assets/b0c9799b-9de3-404f-affc-c6b07749d4c0" />
+
  <h3><b> First Skin Placement</b></h3>
  After sliding on the Airframe ribs onto the Airduct..The lower fuselage skin is mounted onto the airframe ribs.
-<img width="1366" height="538" alt="3" src="https://github.com/user-attachments/assets/bd53c298-0a0e-4170-9009-67793faf5ca3"/>
+<img width="1366" height="538" alt="3" src="https://github.com/user-attachments/assets/a5ef3ba8-ca51-4de6-94b5-83d0d8117286" />
+
 <h3><b>Mounting Side panels</b></h3>
 After mounting lower skin panel of the fuselage..the side skin panels are mounted onto the Airframe.
-<img width="1366" height="538" alt="4" src="https://github.com/user-attachments/assets/56bde90f-c560-4918-9ed9-06ed85ac06bc"/>
+<img width="1366" height="538" alt="4" src="https://github.com/user-attachments/assets/34937411-a168-469c-8197-438794f2d0f0" />
+
 <h3><b>Adding support</b></h3>
 3mm Carbon fibre rods are slided into the premade holes in airframes..the goal is to provide the airframe with a good tensile and torsion strength.
 Also one of the rear support ribs are slided onto the carbin fibre rod for attatching to the main spine and be a part of the barrier against crushing G-force..Also the remaining side panels of the fuselage are mounted onto the rear support ribs.
-<img width="1366" height="538" alt="5" src="https://github.com/user-attachments/assets/28dee7aa-5c37-4001-b8e6-f1f8ec763522"/>
+<img width="1366" height="538" alt="5" src="https://github.com/user-attachments/assets/cec778c6-3d89-497c-b52b-74d98e520934" />
+
 <h3><b>Mounting Inner Skin Panels</b></h3>
 Rear Inner skin panels are also mounted onto the rear support ribs.
-<img width="1366" height="538" alt="6" src="https://github.com/user-attachments/assets/d9b6258e-5694-4c6d-8049-25907753fb2f"/>
+<img width="1366" height="538" alt="6" src="https://github.com/user-attachments/assets/7d9ec158-5d96-4fee-a5bf-a5ce79a1d395" />
+
 <h3><b>Construction of the Stabs(stabilators)</b></h3>
 The stab's construction is simple yet requires carefullness regarding the building process...The root aerofoil is mounted on the outer edges of the stab.
-<img width="1366" height="538" alt="7" src="https://github.com/user-attachments/assets/3500fa88-abc2-4abe-8af1-41368810e282"/>
+<img width="1366" height="538" alt="7" src="https://github.com/user-attachments/assets/66e5d70d-8f5b-436f-9194-1d58764fc2c6" />
+
 After mounting the root aerofoil on the root edge of lower skin panel of the stab...
 the upper skin panel is mounted onto the root aerofoil and the corresponding outer edges of the lower skin panel....
-<img width="1366" height="538" alt="8" src="https://github.com/user-attachments/assets/91b89b96-a29b-4f61-95d0-0a94c7edb1a5"/>
+<img width="1366" height="538" alt="8" src="https://github.com/user-attachments/assets/a1e05d6d-c75a-41b9-9613-c5a28b26d236" />
+
 After sucessfully mounting skin panels and the root aerfoil to eachother...the pivot rod is slided into the premade hole in the root aero foil.... 
 The stabilators are done being built.
-<img width="1366" height="538" alt="9" src="https://github.com/user-attachments/assets/d7d34760-1f13-4736-8242-03564a8eb67b"/>
+<img width="1366" height="538" alt="9" src="https://github.com/user-attachments/assets/351c5971-89bd-42c9-9264-c25b3b0a1965" />
+
 <h3><b>Mounting The Remaining Skin Panels</b></h3>
 The remaing rear lower skin panels of the fuselage are also mounted onto the rear support ribs of the Fuselage..with the side skin panels supporting it.
-<img width="1366" height="538" alt="10" src="https://github.com/user-attachments/assets/918a7c45-ed82-418b-a4dd-8bda1591704a"/>
+<img width="1366" height="538" alt="10" src="https://github.com/user-attachments/assets/5516bbb6-6a0a-4eb2-bb17-e892c43da210" />
+
 After completing mounting the rear side of lower skin panels..The rear skin panels of the upper skin are also mounted onto the rear support ribs....
-<img width="1366" height="538" alt="11" src="https://github.com/user-attachments/assets/cea30157-e479-403e-ba44-0f0dc5c32214"/>
+<img width="1366" height="538" alt="11" src="https://github.com/user-attachments/assets/e5fb4653-aff1-4bf3-addd-e2c81d3867d6" />
+
 After mounting first rear skin panel of the upper skin...the second pair of skin panels are mounted onto the Airframe ribs...these two skin panels are directly sitting above the main propulsion unit of the UAV..
-<img width="1366" height="538" alt="12" src="https://github.com/user-attachments/assets/74b71ae1-3379-441f-b14a-14ab8280a446"/>
+<img width="1366" height="538" alt="12" src="https://github.com/user-attachments/assets/1cba5e2c-c914-462e-833f-a63ebb053b8b" />
+
 The side long skin panels are also mounted onto the Airframe ribs..these skin panels cover up the most of the Fuselage's upper skin....
-<img width="1366" height="538" alt="13" src="https://github.com/user-attachments/assets/4741cf53-e4c4-4c5d-9e75-70095ca52627"/>
+<img width="1366" height="538" alt="13" src="https://github.com/user-attachments/assets/03082cc0-85c1-48c2-9ea4-9eaba2311621" />
+
 The front upper skin panels of the Fuselage are mounted onto the front Airframe Ribs of the Airframe with the remaining upper side panels of the Airframe....the Cavity behind these panels is the space of the removeable panels that allow accessing the inner components of the Aircraft without needing to rip-apart the skin of the Aircraft.
-<img width="1366" height="538" alt="14" src="https://github.com/user-attachments/assets/c4d5416e-9feb-473b-bec6-7d8db1f15961" />
-<img width="1366" height="538" alt="15" src="https://github.com/user-attachments/assets/b63e0051-5842-4d73-9be4-7c76092d6c46" />
+ <img width="1366" height="538" alt="14" src="https://github.com/user-attachments/assets/08ba96a9-c836-40d0-80cd-771bb6fd5fa5" />
+<img width="1366" height="538" alt="15" src="https://github.com/user-attachments/assets/a570ae2d-3698-4552-8d30-6182bb912948" />
 A brief 3d view for the Construction described so far.
 <video src="https://github.com/user-attachments/assets/6bf46d65-2bc3-4322-bec0-19ca2d736067" autoplay loop muted width="100%"></video>
 
 <h3><b>Mounting Engine Nozzle</b></h3>
 The Engine nozzle is consisted of 5 panels..the first three panels are mounted onto the correspeonding edges of the Inner side panels and Upper skin panels....
-<img width="1366" height="538" alt="16" src="https://github.com/user-attachments/assets/bfb93ec4-5818-4ef8-8e84-e338571f8c34" />
+<img width="1366" height="538" alt="16" src="https://github.com/user-attachments/assets/70d93675-f026-45e5-82e9-2e7851602e8f" />
+
 The fourth skin panel of the Engine nozzle is mounted onto the corresponding edges of the lower skin panel and onto the corresponding side edges of the second and thord side panels of the engnine side panels.
-<img width="1366" height="538" alt="17" src="https://github.com/user-attachments/assets/7f59e64e-742c-46dc-961c-41e0e707e390" />
+<img width="1366" height="538" alt="17" src="https://github.com/user-attachments/assets/0649ed04-e869-4c18-bdd2-1922ff9920f0" />
+
 the last panel is the exhuast panel of the engine bay section, this can be replaced by a servo operated variable engine nozzle too, which is not the part of current development.
-<img width="1366" height="538" alt="18" src="https://github.com/user-attachments/assets/bfd1ba1a-0dd0-4d33-bdf4-09afce0fcbac" />
+<img width="1366" height="538" alt="18" src="https://github.com/user-attachments/assets/a805c14e-3fca-42da-b596-4e9620db9e23" />
+
 <h3><b>Installing the Nose ribs, nose panels, And completing the Fuselage</b></h3>
 The Nose is installed by folowing a complex assembling procedure, the Battery block itself serves as a support, The two nose ribs are slided onto the carbon fibre rods, In this way the base of the nose is installed onto the Fuselage.
-<img width="1366" height="538" alt="19" src="https://github.com/user-attachments/assets/7e56eac5-f999-4ce2-82db-d0a23321b380" />
+<img width="1366" height="538" alt="19" src="https://github.com/user-attachments/assets/05ddbb7c-7562-4a42-b1dd-88553e8b6680" />
+
 The lower nose skin panels are installed onto the assembled Structure of the Nose
-<img width="1366" height="538" alt="20" src="https://github.com/user-attachments/assets/b2ec6514-5b85-429a-b886-3be198fd8b95" />
+<img width="1366" height="538" alt="20" src="https://github.com/user-attachments/assets/5f99a945-dec0-45e5-9419-08869655e350" />
+
 After mounting the lower panels the side Skin panels are mounted onto the so far assembled nose strucutre.
-<img width="1366" height="538" alt="21" src="https://github.com/user-attachments/assets/523d6682-1b4b-490c-b6df-2b4e80316580" />
+<img width="1366" height="538" alt="21" src="https://github.com/user-attachments/assets/a8052fb7-a047-4f6f-8dfa-bed1c24901b9" />
+
 After that The next Nose Rib is installed by three support brigdes,
-<img width="1366" height="538" alt="22" src="https://github.com/user-attachments/assets/454351b3-7512-4cad-9998-8d04b7e84a20" />
+<img width="1366" height="538" alt="22" src="https://github.com/user-attachments/assets/0349aec3-bd5b-4d25-805c-5eef85f072bd" />
+
 After adding the next rib, the corresponding side Skin panels are mounted.
-<img width="1366" height="538" alt="23" src="https://github.com/user-attachments/assets/2bb6f701-5ef8-4b14-907f-deb8fedfe95b" />
+<img width="1366" height="538" alt="23" src="https://github.com/user-attachments/assets/a44085d9-820a-425d-8a08-58654df91e4a" />
+
 After mounting Side skin panels, the corresponding upper Skin panel is mounted 
-<img width="1366" height="538" alt="24" src="https://github.com/user-attachments/assets/1f089d55-bbdc-406c-9420-d3460de044a3" />
+<img width="1366" height="538" alt="24" src="https://github.com/user-attachments/assets/1ebc27a2-0114-492b-8ba0-7bd4e8be5344" />
+
 after that, another Rib is added to the structure, and corresponding remaining side skin panels are mounted on, 
-<img width="1366" height="538" alt="25" src="https://github.com/user-attachments/assets/7e435fc4-6c61-4a63-b00c-a7110ddb68fc" />
+<img width="1366" height="538" alt="25" src="https://github.com/user-attachments/assets/281e3e9a-281c-4f72-a372-eb42a5edc3b1" />
+
 After that the last remaining upper skin panel is mounted.
-<img width="1366" height="538" alt="26" src="https://github.com/user-attachments/assets/fa1d4f05-e814-4507-93bc-1e9d97bc93b2" />
+<img width="1366" height="538" alt="26" src="https://github.com/user-attachments/assets/e1e60f64-fd99-4649-8542-ef1910bb5938" />
+
 THE DIVERGERS:-
 The divergers are mounted on the tip of the lower intake Skin panel, Its purpose is to separate the low speed skin air from the high speed air,
-<img width="1366" height="538" alt="27" src="https://github.com/user-attachments/assets/ecb153b1-d141-49aa-90e1-0287ef52b6e8" />
+<img width="1366" height="538" alt="27" src="https://github.com/user-attachments/assets/8d3fa092-d4a0-4f75-8c49-f18aaec85b9c" />
+
 After All of this process the Construction of the Fuselage is done.
-<img width="1366" height="538" alt="28" src="https://github.com/user-attachments/assets/6d77f3e3-ec05-424b-862f-59c6b899b1b6" />
+<img width="1366" height="538" alt="28" src="https://github.com/user-attachments/assets/80155737-a5b2-474c-ac75-7b834ae4b455" />
+
 <h3><b>Assembling the V-tails</b></h3>
 The Ribs of the tails are mounted onto the one side of the Skins of the tail, 
-<img width="1366" height="538" alt="29" src="https://github.com/user-attachments/assets/d37fb54a-03ca-4390-a3cb-6ceb2670ac82" />
+<img width="1366" height="538" alt="29" src="https://github.com/user-attachments/assets/8510d581-7379-4840-9535-12753e231432" />
+
 After joining the Ribs with one skin, The other skin is mounted onto the ribs and the other skin,
-<img width="1366" height="538" alt="30" src="https://github.com/user-attachments/assets/079b0012-5c5a-4f3e-98b7-d9b1696167c4" />
+<img width="1366" height="538" alt="30" src="https://github.com/user-attachments/assets/7e2e8853-c8ad-4669-9e14-360d88629fcc" />
+
 Just like this the second tail is constructed, After joining skins and the ribs of the tail, the lower base root panel is mounted, sealing the whole structure,
-<img width="1366" height="538" alt="31" src="https://github.com/user-attachments/assets/072e8ab3-05ba-4d66-8c9d-bffb2efb1bcc" />
+<img width="1366" height="538" alt="31" src="https://github.com/user-attachments/assets/ab159a63-2314-40a2-856d-cda74d796848" />
+
 After that carbon fibre support rods are slided into pre-built holes in the root panel,
-<img width="1366" height="538" alt="32" src="https://github.com/user-attachments/assets/a9cfc476-e97e-4902-8a7e-686b098ddea0" />
+<img width="1366" height="538" alt="32" src="https://github.com/user-attachments/assets/9c527d07-727e-4c58-a4af-dfcfd7bb4a0a" />
+
 This support rib is situated perpendicular to the actuator support of the STABS, its purpose is to lockin the Carbon fibre support Rods of the V-tails.
-<img width="1366" height="538" alt="33" src="https://github.com/user-attachments/assets/b69ce9b7-f5e2-4750-bcfb-1e400b1055ac" />
+<img width="1366" height="538" alt="33" src="https://github.com/user-attachments/assets/f4711956-ab10-4ce1-99d4-7daccc8bec4f" />
+
 The Tails are slided into the Fuselage, Like This, (this is the inner view removing the outer skin panel from the vie)
-<img width="1366" height="538" alt="34" src="https://github.com/user-attachments/assets/48dafd77-78fb-48f7-b434-74358d444251" />
+<img width="1366" height="538" alt="34" src="https://github.com/user-attachments/assets/1aa6c1b5-cb7c-4b21-921c-943bf08a20f8" />
+
 And with that The V-tails are fused into the Fuselage.
-<img width="1366" height="538" alt="35" src="https://github.com/user-attachments/assets/720e0554-709f-4555-b594-793835ee5c15" />
+<img width="1366" height="538" alt="35" src="https://github.com/user-attachments/assets/6751112b-427d-4a39-87cc-ed1ec94e8b31" />
+
 <h3><b>Assembling the Wings</b></h3>
 The front Ribs of the wing are fitted into the slots of the front spar, 
-<img width="1366" height="538" alt="36" src="https://github.com/user-attachments/assets/59dfd546-9cee-4510-ba1c-eebf2c2f94df" />
-<img width="1366" height="538" alt="37" src="https://github.com/user-attachments/assets/a4a8a5ef-414d-44af-9db5-affc3413087f" />
+<img width="1366" height="538" alt="36" src="https://github.com/user-attachments/assets/2d60399b-f15e-4ac5-b469-e241dcc012cb" />
+<img width="1366" height="538" alt="37" src="https://github.com/user-attachments/assets/524c42f0-6151-426c-8836-b6f52a8a6cd0" />
+
 after fitting the ribs into the front spar, the main spar is slided onto the sleves of the ribs
-<img width="1366" height="538" alt="38" src="https://github.com/user-attachments/assets/363f8d9c-ffb2-4469-a5d2-6f847c873db9" />
+<img width="1366" height="538" alt="38" src="https://github.com/user-attachments/assets/2a0a6c6b-92f5-4c53-8594-38b12fb84d39" />
+
 After fitting the Main spar, the sleves of the Rear Ribs are slided into the main spar
-<img width="1366" height="538" alt="39" src="https://github.com/user-attachments/assets/9aa8064d-d71d-4d98-971d-f2dabbd7c36c" />
+<img width="1366" height="538" alt="39" src="https://github.com/user-attachments/assets/e3697705-bcaf-4a75-9657-4ee0b9fa7729" />
+
 the edge support ribs are then slided into gltye rear sleves of the rear ribs,
-<img width="1366" height="538" alt="40" src="https://github.com/user-attachments/assets/c86da0d9-57fd-409d-b738-5cfbad9dd27f" />
-<img width="1366" height="538" alt="41" src="https://github.com/user-attachments/assets/5cac93d6-a959-403e-a891-4389b29041fd" />
+<img width="1366" height="538" alt="40" src="https://github.com/user-attachments/assets/70f7aa0a-9115-4192-9ceb-c2bfe9b98173" />
+
+<img width="1366" height="538" alt="41" src="https://github.com/user-attachments/assets/1e9478ee-6d1e-4008-9495-b5fe61c8a946" />
+
 after that the Rear spar is fitted into the joint intersections made into the ribs and the spar.
-<img width="1366" height="538" alt="42" src="https://github.com/user-attachments/assets/acaf5d64-9801-4471-bcb2-cb461eb02269" />
+<img width="1366" height="538" alt="42" src="https://github.com/user-attachments/assets/ee3bb28e-fff8-4058-8433-ac50705c3c4d" />
+
 After This step the Main Root aerofoil bulkhead is slided into the spar sleves to complete the structure of the removeable wings.
-<img width="1366" height="538" alt="43" src="https://github.com/user-attachments/assets/4f81f428-d731-4538-b3e4-21708eab2146" />
+<img width="1366" height="538" alt="43" src="https://github.com/user-attachments/assets/d9152ad4-91a8-4437-880d-45fb6a95c4be" />
+
 The two 5mm Carbon fibre rods are then slided into the holes and then locked using the collars inside the wings, so that the wings can be slides on and removed for easy transportation. 
-<img width="1366" height="538" alt="44" src="https://github.com/user-attachments/assets/1464d4ca-313f-4bce-8ab6-a5f8f7711c8c" />
+<img width="1366" height="538" alt="44" src="https://github.com/user-attachments/assets/f290b5e7-5822-4f5f-a47e-66ef92e15974" />
+
+
 The upper skin of 2mm depron is mounted onto the complex wing structure.
-<img width="1366" height="538" alt="45" src="https://github.com/user-attachments/assets/f25bf9c6-c438-430c-9db9-7f0ca2e6d81f" />
-After mounting the upper depron skin, the lower depron skin is mounted to complete tge aerodynamic shape of the wing, also for servo fittings, there are pre cutout parts on the lower depron skin.
-<img width="1366" height="538" alt="46" src="https://github.com/user-attachments/assets/8c79dff0-5b6f-4311-8389-1c54730089ed" />
+
+
+
+
+After mounting the upper depron skin, the lower depron skin is mounted to complete tge aerodynamic shape of the wing, also for servo fittings, there are pre cutout parts on the lower depron skin
+
+
+
 And after that the sides of the wing, the "WING TIPS" are mounted on,
 <img width="1366" height="538" alt="47" src="https://github.com/user-attachments/assets/75ae0f1f-d8b5-45ce-b8ad-f602ce878d67" />
 After mounting the wing tips, the
